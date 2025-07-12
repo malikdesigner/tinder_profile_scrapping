@@ -1,0 +1,506 @@
+2025-07-12 14:11:55,898 - INFO - Starting MoreLogin environment...
+2025-07-12 14:11:57,492 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 14:11:57,493 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 14:11:58,115 - INFO - Folder structure created successfully
+2025-07-12 14:11:58,116 - INFO - TinderScraper initialized with Excel output
+2025-07-12 14:12:08,594 - INFO - Starting to scrape 200 profiles
+2025-07-12 14:12:08,594 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 14:12:30,957 - ERROR - Failed to download image 1 for profile profile_0001: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-12 14:12:39,219 - INFO - Scraping profile 2/200 in New York, NY
+2025-07-12 14:13:01,505 - ERROR - Failed to download image 1 for profile profile_0002: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-12 14:13:06,887 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 14:29:52,750 - INFO - Starting MoreLogin environment...
+2025-07-12 14:29:53,907 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 14:29:53,907 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 14:29:54,308 - INFO - Folder structure created successfully
+2025-07-12 14:29:54,309 - INFO - TinderScraper initialized with Excel output
+2025-07-12 14:30:04,526 - INFO - Starting to scrape 200 profiles
+2025-07-12 14:30:04,527 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 14:30:09,633 - WARNING - Error scraping image 1: 'TinderScraper' object has no attribute 'navigate_to_next_image'
+2025-07-12 14:30:11,647 - WARNING - Error scraping image 2: 'TinderScraper' object has no attribute 'navigate_to_next_image'
+2025-07-12 14:30:13,646 - WARNING - Error scraping image 3: 'TinderScraper' object has no attribute 'navigate_to_next_image'
+2025-07-12 14:30:15,643 - WARNING - Error scraping image 4: 'TinderScraper' object has no attribute 'navigate_to_next_image'
+2025-07-12 14:30:17,690 - WARNING - Error scraping image 5: 'TinderScraper' object has no attribute 'navigate_to_next_image'
+2025-07-12 14:30:18,738 - INFO - Tinder scraping automation completed.
+2025-07-12 14:35:07,475 - INFO - Starting MoreLogin environment...
+2025-07-12 14:35:08,774 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 14:35:08,774 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 14:35:09,104 - INFO - Folder structure created successfully
+2025-07-12 14:35:09,104 - INFO - TinderScraper initialized with Excel output
+2025-07-12 14:35:19,322 - INFO - Starting to scrape 200 profiles
+2025-07-12 14:35:19,323 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 14:35:22,386 - WARNING - Error scraping image 1: 'NoneType' object has no attribute 'bounding_box'
+2025-07-12 14:35:22,387 - WARNING - Error scraping image 2: 'NoneType' object has no attribute 'bounding_box'
+2025-07-12 14:35:22,387 - WARNING - Error scraping image 3: 'NoneType' object has no attribute 'bounding_box'
+2025-07-12 14:35:22,387 - WARNING - Error scraping image 4: 'NoneType' object has no attribute 'bounding_box'
+2025-07-12 14:35:22,387 - WARNING - Error scraping image 5: 'NoneType' object has no attribute 'bounding_box'
+2025-07-12 14:35:26,521 - INFO - Tinder scraping automation completed.
+2025-07-12 15:07:23,432 - INFO - Starting MoreLogin environment...
+2025-07-12 15:07:25,276 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 15:07:25,277 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 15:07:25,846 - INFO - Folder structure created successfully
+2025-07-12 15:07:25,847 - INFO - TinderScraper initialized with Excel output
+2025-07-12 15:07:37,284 - INFO - Starting to scrape 200 profiles
+2025-07-12 15:07:37,288 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:08:01,268 - ERROR - Failed to download image 1 for profile profile_0001: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-12 15:08:07,355 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 15:08:14,391 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:08:16,984 - INFO - Tinder scraping automation completed.
+2025-07-12 15:08:33,498 - INFO - Starting MoreLogin environment...
+2025-07-12 15:08:34,447 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 15:08:34,447 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 15:08:34,673 - INFO - Folder structure created successfully
+2025-07-12 15:08:34,673 - INFO - TinderScraper initialized with Excel output
+2025-07-12 15:08:44,863 - INFO - Starting to scrape 200 profiles
+2025-07-12 15:08:44,864 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:09:08,680 - ERROR - Failed to download image 1 for profile profile_0001: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-12 15:09:10,937 - INFO - Tinder scraping automation completed.
+2025-07-12 15:10:28,730 - INFO - Starting MoreLogin environment...
+2025-07-12 15:10:30,233 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 15:10:30,234 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 15:10:30,405 - INFO - Folder structure created successfully
+2025-07-12 15:10:30,406 - INFO - TinderScraper initialized with Excel output
+2025-07-12 15:10:40,572 - INFO - Starting to scrape 200 profiles
+2025-07-12 15:10:40,572 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:10:43,607 - WARNING - Error scraping image 1: 'coroutine' object is not subscriptable
+2025-07-12 15:10:43,608 - WARNING - Error scraping image 2: 'coroutine' object is not subscriptable
+2025-07-12 15:10:43,608 - WARNING - Error scraping image 3: 'coroutine' object is not subscriptable
+2025-07-12 15:10:43,608 - WARNING - Error scraping image 4: 'coroutine' object is not subscriptable
+2025-07-12 15:10:43,608 - WARNING - Error scraping image 5: 'coroutine' object is not subscriptable
+2025-07-12 15:10:43,608 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 15:10:46,074 - INFO - Tinder scraping automation completed.
+2025-07-12 15:27:17,645 - INFO - Starting MoreLogin environment...
+2025-07-12 15:27:19,397 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 15:27:19,398 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 15:27:19,610 - INFO - Folder structure created successfully
+2025-07-12 15:27:19,610 - INFO - TinderScraper initialized with Excel output
+2025-07-12 15:27:29,791 - INFO - Starting to scrape 200 profiles
+2025-07-12 15:27:29,792 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:27:32,853 - WARNING - Profile Photo 1 not found, clicking next photo...
+2025-07-12 15:27:32,863 - WARNING - Profile Photo 2 not found, clicking next photo...
+2025-07-12 15:27:32,869 - WARNING - Profile Photo 3 not found, clicking next photo...
+2025-07-12 15:27:32,878 - WARNING - Profile Photo 4 not found, clicking next photo...
+2025-07-12 15:27:32,884 - WARNING - Profile Photo 5 not found, clicking next photo...
+2025-07-12 15:27:32,887 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 15:27:39,922 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:27:41,906 - INFO - Tinder scraping automation completed.
+2025-07-12 15:39:31,793 - INFO - Starting MoreLogin environment...
+2025-07-12 15:39:33,235 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 15:39:33,235 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 15:39:33,474 - INFO - Folder structure created successfully
+2025-07-12 15:39:33,474 - INFO - TinderScraper initialized with Excel output
+2025-07-12 15:39:43,683 - INFO - Starting to scrape 200 profiles
+2025-07-12 15:39:43,684 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:39:47,703 - INFO - Extracted image URL for photo 1: https://images-ssl.gotinder.com/u/bZcdoYJTtkVfLdbG7juKj9/pR8xuiUeaLDNbE8iEc4b1D.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9iWmNkb1lKVHRrVmZMZGJHN2p1S2o5LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjkyOTF9fX1dfQ__&Signature=BaddHKQH87tUIZ3UDc9c8sltZiYgZKF-3Ze0sWWkwaL3l93fJwu3v8USIrzvdbA2PPthdchDbBVsjKXhQdwK1dL5ieubmvmrbv-oR8qpIErjEbTltx7cCcbOzNDlya5Coif1MDG~xJASRg7YmcRY0pA7YFaGDjVuCOkolxhguCsIvs3-4zjcKH4ZubzdYw5AZVtHZ65Z~rP8vn-41y31s348pF9AU3USBmprYxKVFQuG4iMVhrL-SCqjFHpipVEBh8CXkV42rI1dphI0DsuVz~FdA9SSMF4aqF9SA~dKRNtKQjii45gtnLeb-Bhm0n3nswu3OyhYasI65OybJtxbew__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 15:39:48,761 - WARNING - Profile Photo 2 not found. Trying to click next image button...
+2025-07-12 15:39:50,811 - INFO - Extracted image URL for photo 3: https://images-ssl.gotinder.com/u/ueB3vA49DfdA1fpP6fXKNX/gLwPov5XD5JKDaHgpysy4F.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91ZUIzdkE0OURmZEExZnBQNmZYS05YLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjA3MTZ9fX1dfQ__&Signature=lizMavvgR1eV-LbOUvkCQ23zJWHUBLg0aB8~5nYCixO3BPUXwxb7dbiVfsS9U2jmdxB0QwxsFyOtw1qDWF2MwiVmGT8DXeGPEzwBcQuWOCBn88g4Q7rrxURYnd-JC-b9EIXqXPbWX9Y4~KYX1LQdctTryqsMcKP7R8czGsWYUBOewtdF2JWjMpUEPgQHQbkHT2BlTr9DpTn0pNVBgnRuRiHxa44h504Dq7meZSxr4UP2I0bbSH58W6~BBlwy7put34nz-m5T6IZWLUWkBPmma5SSSCArIoIkeu6Mzv1UALLxiS74N2sxYsn36L7OLkw-hW7K9EQvsiWJ7pFEfiopdQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 15:39:51,853 - WARNING - Profile Photo 4 not found. Trying to click next image button...
+2025-07-12 15:39:52,918 - WARNING - Profile Photo 5 not found. Trying to click next image button...
+2025-07-12 15:39:53,958 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 15:40:01,000 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:40:03,129 - INFO - Tinder scraping automation completed.
+2025-07-12 15:44:03,519 - INFO - Starting MoreLogin environment...
+2025-07-12 15:44:06,206 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 15:44:06,206 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 15:44:06,443 - INFO - Folder structure created successfully
+2025-07-12 15:44:06,443 - INFO - TinderScraper initialized with Excel output
+2025-07-12 15:44:16,633 - INFO - Starting to scrape 200 profiles
+2025-07-12 15:44:16,634 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 15:44:19,707 - WARNING - Profile Photo 1 not found. Trying to click next image button...
+2025-07-12 15:44:21,787 - INFO - Extracted image URL for photo 2: https://images-ssl.gotinder.com/u/1iJwaXdFdKxd8Qpy79Bgb9/gZcgvzjKUBYzKLFD299873.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8xaUp3YVhkRmRLeGQ4UXB5NzlCZ2I5LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTg0MzZ9fX1dfQ__&Signature=Ulng86Jn3ZPj8gBJ8eZK3EM3bxmRAc5CphrPSYScBLck1oB5In~Q~2slpHpkfSAGXhZV8EE8tOaKd~VhpwTcQ7wOHkqQcA1uAzPye55K1RXErrAViBB2XjdtQ10PIYASfvNhAEo1LRexd1eDb3Ew6Mo60-JXWJyQBTtcSQkrk935AQd3XU6yAvOFYUBLm1cRNQYundcC7OsZXv6MG5eoxmOlB~8WucljuM5tBpjnMLg01jGNC8BjJT4BJso2n8FEx9GNIHwgdBH5Rdkk04byyfZWmKNCYAvDyu2ywXbs~euy0Q6~nT3miIZun6cWcdk~sI0OwTeKQvkX2aAQGsis-g__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 15:44:23,843 - INFO - Extracted image URL for photo 3: https://images-ssl.gotinder.com/u/sZ1LN3SHsYpbRH1SQYhSUU/b9gVrtFLoq3XjKsgHf5HMa.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9zWjFMTjNTSHNZcGJSSDFTUVloU1VVLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTg0MzZ9fX1dfQ__&Signature=FP7nUvv8uweSRtv3jg79Mup6aGMAt-PvMNn---ZdGoKOSl4YhbwR1Rvhqm81a1C2MV5Eryrp4c2mtgYAg7-VoIFUbq4GmXSK7S26l~j1GpY~x4Jbtu5Trnj77vBV5~eH-VpR4JG3-pxMdqTwhPW~wn0cCtUM5T6JFL9GaTUF8HFf0HaRyod6XnOl3Brlg5ERkJ1S-47HfQmA57nsn2Af4Oj~O84Icp9MpxRKwaKKkbta-sQOWJa1~n3Gg8AmMCDGOvwFDbOZn7tZ8oPbbmCwTqSrBgbRS36Kfpa-ZDZ9~zL8uWePAQIdMafnVMhmKqegHVqyb1fSxdhUHZmZGauLZA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 15:44:25,861 - INFO - Extracted image URL for photo 4: https://images-ssl.gotinder.com/u/tHQZ8ovNMS6T7EkiLz36im/jau9oC5Buk9C9yzSHQqkQ3.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90SFFaOG92Tk1TNlQ3RWtpTHozNmltLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTg0MzZ9fX1dfQ__&Signature=DeS5UcXrZAhw0E0wCZtPDJmZaCWntAJaglYYA7KFUZ4JwmZtOq21k1pRU1llSvrh~wkkL1gcn-bTLg8zadSFtQSYmPvStQeElYZ2EZQH4MP6fAqCuxO8Y5kFUl~1D89aHQeiWA4Ay0LdT1WsGwzNeV08Nj15vHQ-o~px4tKUcj2vG2mww0A45x1E6yggBfPffo1AWlGBlru-6E8HvVEuu7uqmwlaa4cNZCZLBqwfrBrpcm-92IPF38UaE5R5mtVZ1FzTDq1eTs4rcQ9skIYZP8-g-CuXbsRJwWM-dPArYrBhHaINYV1-iNXBF56~ouyG4JcYCBsXH1m93mSjNadvfQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 15:44:27,902 - INFO - Extracted image URL for photo 5: https://images-ssl.gotinder.com/u/rX1Czr77pfyr5LYvAtpZL9/tyTaNymGMLop1i5xKQXGgx.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9yWDFDenI3N3BmeXI1TFl2QXRwWkw5LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTg0MzZ9fX1dfQ__&Signature=Mmpf0rOV5atois~i~bU1EdOTU9Cmg8xV-VbsK2--sAJOc72ZAp1nzMB40VJLiuxmtr7m6NQlGWyJMVDoqUYEsF0EWAjZHOzwGX7Lzno5JLXq3Eck88w1EhPy4KH8A0LN8xNedGZdG7TEjwKmxyj~bseZZ6P5gkL1csvo4rJNDe5XfAJ8NaMZq6y7i9SgYDtQN6bbNefS0gF2ILkii9wvVbmn6t5Y7-QTjiDZYbQLQK4nx7phYaE1TjuSCiNKB9eNW31NXQEi1fa5CzXwNysN~6tdiZq6Y9s~8Tg7NjNRQRkThKdro6EnM5XKro~o5AAcF7ZNG2mjFRjTGL7Zqofp7g__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 15:44:28,974 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 15:44:35,070 - INFO - Tinder scraping automation completed.
+2025-07-12 16:12:12,971 - INFO - Starting MoreLogin environment...
+2025-07-12 16:12:14,379 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 16:12:14,379 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 16:12:14,688 - INFO - Folder structure created successfully
+2025-07-12 16:12:14,688 - INFO - TinderScraper initialized with Excel output
+2025-07-12 16:12:24,935 - INFO - Starting to scrape 5 profiles
+2025-07-12 16:12:24,936 - INFO - Changing location to: New York, NY
+2025-07-12 16:12:50,930 - INFO - Successfully changed location to New York, NY
+2025-07-12 16:12:50,930 - INFO - Scraping profile 1/5 in New York, NY
+2025-07-12 16:12:53,948 - INFO - Found 7 profile photos to iterate.
+2025-07-12 16:12:54,916 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/kUx6GFWR74dkkVYDREfZvJ/iJjnzpDYSriBybU9FmKjmV.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9rVXg2R0ZXUjc0ZGtrVllEUkVmWnZKLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Mzk2MjZ9fX1dfQ__&Signature=tFM1W7FjFTdgQE2kf0Omp-~phcsLxb1-4esW9d9qFt4V98nidjsHl~PdY29p--nJBdJdHx0hrmNSJDKj17zu~eHWqNnyMy3ir5Sa56Mv3BI296QfS4DvVnwctF58B9dk9ZMW38VehN3zffS5dvLDj6DbogXkl0GyRo1EfE2U5~2OlBg1M30jtKO3hs-u3r6LK4eor5bm2P6qAWDiiw4bS9T~bIGTVB-3mvzAUokQfIEJ39VGzpuxqKcjl~W9~zoyOIgh8I0u4KqjM5o1r5fLPnokEUcbF9b9qNtaMVx5N5LNrF7DCQujH5GWyjyxDNG9QVTr1Uxg3uFc-KNXtNmFLg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:12:56,901 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/cCzLG2kR9juA3aS3nCo4KK/9M5nqyMmbLKom7JecJr4fd.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jQ3pMRzJrUjlqdUEzYVMzbkNvNEtLLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODQyMDR9fX1dfQ__&Signature=Gpcx2GlPsVwGpj3mCqZA01d6rQlai1fHR9f1uJ-d0lRGw2ZixZTNclfmPyzcB7wxp0DU~47Ua4YZp86xWgbkFvQunGqnUSiwB5eIyVbxuzjUNC1dWmNRMqVMzyOeMl6TbWfNcKHk4k6Xzab6XmbVzvGyAxqCnnl34ESR0MNF0k2b3x~7W7rbUUGpn7E24mlIgjoX8zoR-lHRIbmd0Ht9Xp2oBUci3MQnfML4uXi8FykTdY5soZ66W4Ui~eDY18xbXc~danRs647EktUZCjimTMSxcPJeX-X4fr8VMQlKtiwb1LviF~78Hb5gbYo2C3DfnVWqn5nVxwl6Wsar7K6PWw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:12:58,941 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/qA9TCm121VsiLv9jUHZ9Sb/5RUsfzXuPeVNzdyVisqUSw.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9xQTlUQ20xMjFWc2lMdjlqVUhaOVNiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODQyMDR9fX1dfQ__&Signature=UcFEfReOjyIf4x9DAEVYAKFECTfQRtLoNLj4qzqePp~Gqly9ApB0a-1LsioDsARddP6O7o~IYhzKPDjhKkXUk7KBdv-B7eAr7NTOGBI10nwd4QbFWGbRkYFT0BVoAwLoDcnHayOq7L~CR~mISnpMGXjA3bOeeXGZGP1UtIbTrvCe0owC~odIhwO78fti2V5chXC7fuJG9k1mJk8V-CTUqAwvIbP~BHs79cE-dUO8MKZiKhTOz84OXCr0VRj8JT40xygFUh6GM9-poCqwSOKXYBuBdYf4inbicPYjLbkYnjUjM9RLBknBYgCKXP2R3N7kXkcHf4FpEyGetOZkdHhbmw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:13:00,944 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/trwzWCiaCovLVJNQsKJBRy/q7XAqDyYTi8jKuS1GFWH8j.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90cnd6V0NpYUNvdkxWSk5Rc0tKQlJ5LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODQyMDR9fX1dfQ__&Signature=SMbKVB9jLuN7CzapjZNxKx1e37AYVnoV42McQHxxSgJmMRIcEXt4GnRjlOGwInedWx3cr0r2iGuWf6LnDZXFqF81wuZQZyFaZZXuk4TvrEhkMjMtrWqGt0XG06pyHnRe3tK-3Z387Qfy27sGjZn9BCBIAbSSTsj4jZ8Pjj1MgDE3mYVxXZC1GiMlbhV~hIYzfudhqDfH53~0bq3mQv4LQ6VIP1zhWK7GVmdIbbhyPUYObuoT6hQKz54ujdxlEpL733R1TH5-15LEm9WFHELiPmjfmP8LJmv20PJyaYL~X5SGoLcqjPPmdITyS0asLXW9fag3m885K56Y0im2PsbnTQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:13:02,993 - INFO - [5] Extracted image URL: https://images-ssl.gotinder.com/u/jsGapuabQLJd9pGyXQwNZG/3zKpohYKH4uyuFT15VP83r.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9qc0dhcHVhYlFMSmQ5cEd5WFF3TlpHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODQyMDR9fX1dfQ__&Signature=P8NKjWPC~a1UlSOdryyciHM863zLBENpS0rFSyy3StSHANmY8DGNCgUY9~2Vze33kuIVVuem3Yb~8gR1OW0yIyeIvaXf0hAtlPO24yyZGKyVNmdQG6HZj6ICQrYFD2zZH4e0JrSvzkO-sKioajooC-q3bTDzf4FqPZy5j4yUdpmd~RZ1s83TgoZrItcU0wDG4Hv~TPa2lvM1NNhLQQAHaPqZUdGFHRUX5DTGf9nY-ffgR8vdqHCn9fFSfyEwHQBGfGijEYEM3Vl503dE-BWw7~DbB1xTSwbXnlNOp6QpqFnAmDS5jVM8r6CrAStY5H-CI0dQ1ovuuu1hAfkrIzjHSA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:13:04,989 - INFO - [6] Extracted image URL: https://images-ssl.gotinder.com/u/vYKYaAdigT6khCyrWtCTLU/8jEXpPn5sZQgr6ggNspjhu.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS92WUtZYUFkaWdUNmtoQ3lyV3RDVExVLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODQyMDR9fX1dfQ__&Signature=XXsEobVfwwdyMD6kjrAh5bdqTYM4UPq6EJO5c57OXju806VtEMsplOd5dZ7-mdb6maVEhzb9bWbpSMAbqKNn61y~4wcIDoXCxn3aHY3S4WNAJnB2KSYhHIKbiUa9fE9Cai63HpzGPnvXhDfzyKFvwcwMnMBaTybjbCROE6KhDnS3AxVknxoOkD2-ZgXviHP9AOcFI7Z6MI44jtqU70pNN8~Plk70RaB8-1ZcMKzSiDjBBQwMy4VgKMiCfoo-FrFG6UMl74mjOKJFZENMbusIaIaL3Qrc1U1cTmgGWRZ2WZpd3jrdJ4c6O7Kg7-iT0PTop3O8OXlJzIw9cGffNGgOxg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:13:07,004 - INFO - [7] Extracted image URL: https://images-ssl.gotinder.com/u/jnph1Xw2fF6fqVrRTRme3o/7rUqYDcGgUJ6xxhzxVGCLK.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9qbnBoMVh3MmZGNmZxVnJSVFJtZTNvLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODQyMDR9fX1dfQ__&Signature=fLTdJr2i1heKxgqmft0nvy5GEZLN0fK61h735VekOCUGEYSEBATD09ZP0oMrhcDpI96KzvMSkOMx4W~OcWpFuMV5GvK6HbGUvfIAAhdcTn3zeWJm3JF8TDWwsUWz3Imo3q4fsd~h4dUdBSRVe1e8pfSLXUOEtFo580AA8hhFjQE9KeIm3Hc3BzSne3aFp2~KctiPU~9~VgzDhY3wbQmVy8wAS~rI~gxoMiZeHLGyKj5vl-vJi4zZN1X9wZuC~sEdWr~sO2wVS4xr4Klx5H6ZTFX1uRtt0o-5veOSYSvncCXwxIIHJAxhD~ctKv3lDiHYrsD8VjfHOBqZX~H7b9ur0Q__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:13:08,056 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 16:13:15,087 - INFO - Scraping profile 1/5 in New York, NY
+2025-07-12 16:13:18,110 - INFO - Found 7 profile photos to iterate.
+2025-07-12 16:13:19,080 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/kUx6GFWR74dkkVYDREfZvJ/iJjnzpDYSriBybU9FmKjmV.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9rVXg2R0ZXUjc0ZGtrVllEUkVmWnZKLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Mzk2MjZ9fX1dfQ__&Signature=tFM1W7FjFTdgQE2kf0Omp-~phcsLxb1-4esW9d9qFt4V98nidjsHl~PdY29p--nJBdJdHx0hrmNSJDKj17zu~eHWqNnyMy3ir5Sa56Mv3BI296QfS4DvVnwctF58B9dk9ZMW38VehN3zffS5dvLDj6DbogXkl0GyRo1EfE2U5~2OlBg1M30jtKO3hs-u3r6LK4eor5bm2P6qAWDiiw4bS9T~bIGTVB-3mvzAUokQfIEJ39VGzpuxqKcjl~W9~zoyOIgh8I0u4KqjM5o1r5fLPnokEUcbF9b9qNtaMVx5N5LNrF7DCQujH5GWyjyxDNG9QVTr1Uxg3uFc-KNXtNmFLg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 16:13:20,006 - INFO - Tinder scraping automation completed.
+2025-07-12 21:25:10,234 - INFO - Starting MoreLogin environment...
+2025-07-12 21:25:11,706 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 21:25:11,707 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 21:25:12,303 - INFO - Starting new scraping session
+2025-07-12 21:25:12,304 - INFO - Folder structure created successfully
+2025-07-12 21:25:12,304 - INFO - TinderScraper initialized - Starting from profile 1
+2025-07-12 21:25:12,304 - INFO - Current city: New York, NY
+2025-07-12 21:25:25,468 - INFO - Starting to scrape 200 profiles (resuming from 0)
+2025-07-12 21:25:25,468 - INFO - Changing location to: New York, NY
+2025-07-12 21:25:52,041 - INFO - Successfully changed location to New York, NY
+2025-07-12 21:25:52,041 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 21:25:55,087 - INFO - Found 6 profile photos to iterate.
+2025-07-12 21:25:56,115 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/fwpVovuKDRYNg4YMdqe8x2/6oHBwZF98cnVvQomAyfULi.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9md3BWb3Z1S0RSWU5nNFlNZHFlOHgyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTM3NTd9fX1dfQ__&Signature=oWTX7gYJ24R1QUd2zqT72BEYwcz9p0EgKs9R4vU~7dD8HFu1p7PfYS1ySQ9P5j3U6HjNWqIpFPkNVeQYEvw-vLwuDob~HqilVSCXfE1ADC8YO2ZGgadoBWR~cbAB4ae6XSMYSu7TOoYXN5HKRgWU7aZWMHH4Lm5ZghOb9W-fuZOFi8jtCBbbwtK02Wn~QKGRFQOKC4kMTvqmbFOEeFQ39uvl6VemZ4y3lDlZPYfO6nJeg~9vRSSBwV-duAPb2-zgJfB6Uiirp14DHlPQHBFIopLEMjG2Jes-b2A9iN2QDKPz2681RwfXeEuciVFueQBJJKwpqisrjAgzQBJEwJt~jA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:25:58,212 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/cx1PvKXbua4jpXpmRdVQkk/mJZ72GLyPaAncU32aEPyR5.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jeDFQdktYYnVhNGpwWHBtUmRWUWtrLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=ExiT2E47ek1HyQvhgriOYpFEHtCluK-u8gJ24r7kCvEawg9ENnEsCghcFaE-QCAfMSttUlXoHw7KSd0XP7NbAmquWRUDiG0zUIslPFxHlhmJoJo5I8vvZdDylA~ILgzGun2faJyzxmFWoub2cKqrgaskc5ilEPv4Ad~Ch4qbc-ajtw56iQIUtUBBrJ0C0DX6p2yuNDcOYQyzhiGbq13EH2BW7NDbmhCmwHX3D2DFc1z3N7tZo1xkA3gw42~FpWGI3fn9QFOX1He0wFZAqfnNJtrza25GTMLn0r-~7d9IMmbna-xkVy2kQ4XwNNn7wtPQKzNTL-FXyFRTOt-el~ETAA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:00,285 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/aMpKSCrQQbJycRGvvtBqsX/oX27QUHjwyUT32rkPKG5nz.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9hTXBLU0NyUVFiSnljUkd2dnRCcXNYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=hVMxR1A701ucgCERZy7kjXkB599lMzG~LJGEy1GsxRgTTBILagyFpIm5V7Vi-PbMDHH3301HRyhA51Qk4Siqz5-DZU1RI0pIPP52VBJmCxqqrC08h~e-p7y-eijxhkPl5ZOAujz4RzC721gVSSeEow2pDXiRJFXe5IZrkig4CFQwCmoXRWawferzP2Dhu3HY6OXdTt69YdknGvxx~~SI4rc-xK~sKULSqUBQwR-w5ltxVVydVEzZE9aT-89gPFn7njrL-xlHAK~qC~H9h74mgwaLQ7Eh8991VjXy5fLSVfryqtYxK6om3texEBh57LfGw1kgPx9BZGpVz8-J-Zphog__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:02,408 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/i2NhBHT71dNm8PCPGitcWL/rZPBTG9ZDGVsAbzze7Kunp.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9pMk5oQkhUNzFkTm04UENQR2l0Y1dMLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=gsGToeIuD7rbXs7FW1Pup9JKP6HdHeODHC7h63zeuQQhWY0I5RF6rP6j5P1HVBn3CfBylsQwhMVE6FuPuwcED1F3RrKR17CCVlaz6rxSiImdsRvxBXRF0ksgg4N0dsdKBWVEwUWZi826FgVikOkdZGXdVkSHM7vMGzXJplog8ZIgHA0NrYBh0~gy~IeDpxJy~U1hwwAuEub6ed-OYkfvhvCHvTAFcnjmAKVms-kY-zM3p8nWRfmh4cYo96it5uvTSYSWkhSRSbm~6iMJiNFckX49co8anIY2Nvr~poJHDcABKJ9~li6n2OWACcpsP1F9QBaJWizoJLx38Qqjy5T3nw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:04,481 - INFO - [5] Extracted image URL: https://images-ssl.gotinder.com/u/hYui7xq8BNBGiUyb4A6BoP/2xfU2b1iLbtjPJfSetoffR.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9oWXVpN3hxOEJOQkdpVXliNEE2Qm9QLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=KeCbH0pNoESYv-ag71b3CAOFA8JnLQPb6A3lIG6o2e-4Xx2SKF2NPt8Kkiko5GXJPC4iel9ou3024sV821vGMz9C~SzkSfBfhQofZ8quIbw3OUEwSjiyBIThksZU7fgPEF9QS~OWJuHJtH0yn30iF2c-KHaMQS-6jq5gIO4B~2l0GSzh8US56kT2uJ6z24IFRMYabvec7zNHE8QRIcNutUdpdRpN6x~FeJugOKVEuU5A2UmmSpddtVWQJejlloA8VbRq4BZSfCBjA8Y9irzmIwTgEEh-2L41NoGuZTgx3v7jTl3BvZozH13ncrPiNqlnLuolqO2wLWc-cgGnzoKeRQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:06,630 - INFO - [6] Extracted image URL: https://images-ssl.gotinder.com/u/meKYFcmbHnbv9dJZb56sFY/h44QiiufJd2X8Aomj9qBPU.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9tZUtZRmNtYkhuYnY5ZEpaYjU2c0ZZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=d7besXZwMf~m-N6uetvpSOnoejuwdEHXTV0XBydbTdM2lnR5VFp~CqAgTL-ps5QCWIf50pxZUGI9Y1Epg9IXzHi8A5Y6JZzZpOaVqfzx0iJVH9YCxL90gDIsQYIOxTKophrphuQ5Ai0LLfz76JmNODTZejPCdZVO8QLWJOu1egHkIG2eyDIbfJfYuu7BVL9x4l2plugXY95J3MR6kDmwX68WlfJQoQQ1nIVTa03DP-LrHMzxxXSrj~QjuGgWRypHD80Am2VQcJNca~OtxHb-MREHMtIXBgv~kHNwNZB1HiJMfZzeBw2fBTSm~I7tu-ixwmbMEjz47wwGI9~u1~Pfaw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:08,226 - INFO - Profile 1/200 saved successfully
+2025-07-12 21:26:16,565 - INFO - Scraping profile 2/200 in New York, NY
+2025-07-12 21:26:19,614 - INFO - Found 6 profile photos to iterate.
+2025-07-12 21:26:20,616 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/fwpVovuKDRYNg4YMdqe8x2/6oHBwZF98cnVvQomAyfULi.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9md3BWb3Z1S0RSWU5nNFlNZHFlOHgyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTM3NTd9fX1dfQ__&Signature=oWTX7gYJ24R1QUd2zqT72BEYwcz9p0EgKs9R4vU~7dD8HFu1p7PfYS1ySQ9P5j3U6HjNWqIpFPkNVeQYEvw-vLwuDob~HqilVSCXfE1ADC8YO2ZGgadoBWR~cbAB4ae6XSMYSu7TOoYXN5HKRgWU7aZWMHH4Lm5ZghOb9W-fuZOFi8jtCBbbwtK02Wn~QKGRFQOKC4kMTvqmbFOEeFQ39uvl6VemZ4y3lDlZPYfO6nJeg~9vRSSBwV-duAPb2-zgJfB6Uiirp14DHlPQHBFIopLEMjG2Jes-b2A9iN2QDKPz2681RwfXeEuciVFueQBJJKwpqisrjAgzQBJEwJt~jA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:22,735 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/cx1PvKXbua4jpXpmRdVQkk/mJZ72GLyPaAncU32aEPyR5.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jeDFQdktYYnVhNGpwWHBtUmRWUWtrLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=ExiT2E47ek1HyQvhgriOYpFEHtCluK-u8gJ24r7kCvEawg9ENnEsCghcFaE-QCAfMSttUlXoHw7KSd0XP7NbAmquWRUDiG0zUIslPFxHlhmJoJo5I8vvZdDylA~ILgzGun2faJyzxmFWoub2cKqrgaskc5ilEPv4Ad~Ch4qbc-ajtw56iQIUtUBBrJ0C0DX6p2yuNDcOYQyzhiGbq13EH2BW7NDbmhCmwHX3D2DFc1z3N7tZo1xkA3gw42~FpWGI3fn9QFOX1He0wFZAqfnNJtrza25GTMLn0r-~7d9IMmbna-xkVy2kQ4XwNNn7wtPQKzNTL-FXyFRTOt-el~ETAA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:24,800 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/aMpKSCrQQbJycRGvvtBqsX/oX27QUHjwyUT32rkPKG5nz.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9hTXBLU0NyUVFiSnljUkd2dnRCcXNYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=hVMxR1A701ucgCERZy7kjXkB599lMzG~LJGEy1GsxRgTTBILagyFpIm5V7Vi-PbMDHH3301HRyhA51Qk4Siqz5-DZU1RI0pIPP52VBJmCxqqrC08h~e-p7y-eijxhkPl5ZOAujz4RzC721gVSSeEow2pDXiRJFXe5IZrkig4CFQwCmoXRWawferzP2Dhu3HY6OXdTt69YdknGvxx~~SI4rc-xK~sKULSqUBQwR-w5ltxVVydVEzZE9aT-89gPFn7njrL-xlHAK~qC~H9h74mgwaLQ7Eh8991VjXy5fLSVfryqtYxK6om3texEBh57LfGw1kgPx9BZGpVz8-J-Zphog__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:26,885 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/i2NhBHT71dNm8PCPGitcWL/rZPBTG9ZDGVsAbzze7Kunp.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9pMk5oQkhUNzFkTm04UENQR2l0Y1dMLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=gsGToeIuD7rbXs7FW1Pup9JKP6HdHeODHC7h63zeuQQhWY0I5RF6rP6j5P1HVBn3CfBylsQwhMVE6FuPuwcED1F3RrKR17CCVlaz6rxSiImdsRvxBXRF0ksgg4N0dsdKBWVEwUWZi826FgVikOkdZGXdVkSHM7vMGzXJplog8ZIgHA0NrYBh0~gy~IeDpxJy~U1hwwAuEub6ed-OYkfvhvCHvTAFcnjmAKVms-kY-zM3p8nWRfmh4cYo96it5uvTSYSWkhSRSbm~6iMJiNFckX49co8anIY2Nvr~poJHDcABKJ9~li6n2OWACcpsP1F9QBaJWizoJLx38Qqjy5T3nw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:28,963 - INFO - [5] Extracted image URL: https://images-ssl.gotinder.com/u/hYui7xq8BNBGiUyb4A6BoP/2xfU2b1iLbtjPJfSetoffR.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9oWXVpN3hxOEJOQkdpVXliNEE2Qm9QLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=KeCbH0pNoESYv-ag71b3CAOFA8JnLQPb6A3lIG6o2e-4Xx2SKF2NPt8Kkiko5GXJPC4iel9ou3024sV821vGMz9C~SzkSfBfhQofZ8quIbw3OUEwSjiyBIThksZU7fgPEF9QS~OWJuHJtH0yn30iF2c-KHaMQS-6jq5gIO4B~2l0GSzh8US56kT2uJ6z24IFRMYabvec7zNHE8QRIcNutUdpdRpN6x~FeJugOKVEuU5A2UmmSpddtVWQJejlloA8VbRq4BZSfCBjA8Y9irzmIwTgEEh-2L41NoGuZTgx3v7jTl3BvZozH13ncrPiNqlnLuolqO2wLWc-cgGnzoKeRQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:31,075 - INFO - [6] Extracted image URL: https://images-ssl.gotinder.com/u/meKYFcmbHnbv9dJZb56sFY/h44QiiufJd2X8Aomj9qBPU.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9tZUtZRmNtYkhuYnY5ZEpaYjU2c0ZZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjU2NDV9fX1dfQ__&Signature=d7besXZwMf~m-N6uetvpSOnoejuwdEHXTV0XBydbTdM2lnR5VFp~CqAgTL-ps5QCWIf50pxZUGI9Y1Epg9IXzHi8A5Y6JZzZpOaVqfzx0iJVH9YCxL90gDIsQYIOxTKophrphuQ5Ai0LLfz76JmNODTZejPCdZVO8QLWJOu1egHkIG2eyDIbfJfYuu7BVL9x4l2plugXY95J3MR6kDmwX68WlfJQoQQ1nIVTa03DP-LrHMzxxXSrj~QjuGgWRypHD80Am2VQcJNca~OtxHb-MREHMtIXBgv~kHNwNZB1HiJMfZzeBw2fBTSm~I7tu-ixwmbMEjz47wwGI9~u1~Pfaw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:26:32,191 - INFO - Profile 2/200 saved successfully
+2025-07-12 21:26:37,446 - INFO - Tinder scraping automation completed.
+2025-07-12 21:35:30,309 - INFO - Starting MoreLogin environment...
+2025-07-12 21:35:31,341 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 21:35:31,341 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 21:35:32,076 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 21:35:32,077 - INFO - Folder structure created successfully
+2025-07-12 21:35:32,077 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 21:35:32,077 - INFO - Current city: New York, NY
+2025-07-12 21:35:42,501 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 21:35:42,502 - INFO - Changing location to: New York, NY
+2025-07-12 21:36:08,421 - INFO - Successfully changed location to New York, NY
+2025-07-12 21:36:18,668 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 21:36:21,700 - INFO - Found 6 profile photos to iterate.
+2025-07-12 21:36:22,690 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/e3LdTxtjRqT6z3XdxPWGBk/fXPNQyVXpVP416PWs6Nhyy.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9lM0xkVHh0alJxVDZ6M1hkeFBXR0JrLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MjM1MDV9fX1dfQ__&Signature=YFxg9n1F1eq-Pg4tdi-5mAAyQlP81LR6D4ik3RA32KGEEGd9YfGir9J9f4~jvuL~XnPoomUD6m5KsBlWg03hMYSDn~aA5~tZOiowPzouoqil~FYtOdLiPoET2rw9PcYUpq4KMcpTOlseqp7Kg9g3N-x874KW~9oOUYbsiOftJBqgrOSOZ2nhLl4wPYkeZSf2wYSZpUnHMXufjf0V~SdyQ8rSgd0SzQaIwQ6sJWuHfLIo-2c2oBFJex94E5yzSzYmRwyuYSfQi5TAK4UTd6t9KAcZtrN4qF6Dg-wqRvH8ZifmNfm81WOOXfu6BHjQwJfOiXKRmQg~fVOawA6Ms4zO5w__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:36:23,835 - WARNING - Profile Photo 2 not found, skipping...
+2025-07-12 21:36:24,837 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/8XF4xkTbBSbmGc7991QhXc/rZTFPBERiEzGQPsGhzmGbD.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS84WEY0eGtUYkJTYm1HYzc5OTFRaFhjLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODcwMDh9fX1dfQ__&Signature=ujq21FB3BtVq8H~Y1oEqbCn9AVb9Mk8O7O9S6WjqPXLLLOSqRp7e0tT7Zy7jiFHC9G8TaysWyD3xoCZO9VXrXdzcJJbt2RjDIjRTHqk79DftZP3vITJEUy6jmx57jFqOdct8XtSaZ9xUYlLthyRm0TUBSsx4Yl0lnbjsWlEF2dnU0pVceLe52met2oMcWQHv79iCgCxVZ0WfPdvoN05TJd0phAaKS9G0OetDlUwxOCdPhf2udYWz5exTf7BQjm0VkRk48~yFV3XdOrhdlOSHPpMKyZqqcvOAWFkJsOT5M37DVQI6E4O41F8T4vROT9fyGIa9392NBbUxtmHlPa5Ppw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:36:25,974 - WARNING - Profile Photo 4 not found, skipping...
+2025-07-12 21:36:26,970 - INFO - [5] Extracted image URL: https://images-ssl.gotinder.com/u/81erJ9q8iuQNW8JsdP958c/mwjvGFFKGRFRuoTVUBzAMd.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS84MWVySjlxOGl1UU5XOEpzZFA5NThjLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODcwMDh9fX1dfQ__&Signature=GNH9KJbKefrkUgU0v2uXCP2Q-icy~H2TmAbvVuXiBvyZGP4tiRhfcJritFSys-PPXBzeJZpQNSGGNIueVIhluNgxmXGaRE0aXN0RTxZhGbVPiQhsd4Xo3tJki9jw7Pqv5qql3KQKN~7runyvDyA3Q-tdmoE407I2nKbMiz-GX1aIkMMqMV3no-TannbULCeuAMSsT6D853ZsQRWXsoeX~t2rHrQz09mqjs9NWxW-FWqT8YR7vBDg93u9NVpsRZQBRfmfA96Y52m2nDgOw1zSv7MwWeIUSH96hDNDk~LWUXIAben~akWdvnhFqGDB6xxDFYouYwO6yiE1KmLbdnMd7g__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:36:29,092 - INFO - [6] Extracted image URL: https://images-ssl.gotinder.com/u/pwG1cXdCTCdFrHi9BjXej7/9gFiACsJjynXRNzcFVEWGg.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9wd0cxY1hkQ1RDZEZySGk5QmpYZWo3LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4ODcwMDh9fX1dfQ__&Signature=lfn53HzbmuZ3oB8CEYl-Yc696OmJZn-Taw1llLJx8FBCM-LvTFTWgPMgPHzwZb0Q0stM9CHSMPfHrqSnRaJYieKuVf2qq5z832JupbBIpOJEZ7CHyxTuesWWx5056jDbDM3jbZtInZizIfQFIEAO3kRtVMv~csMbMGJv-O2gEOXU6bGs~fOURcX39GCfQr-rtjoW1j7jf-d4HFoBuoJip2QNsVeAPSYM2N7eJRu7l7Hv2gNFZhA1d0KfICxOCJL6z75gaLSMW9m6Xy7mmi-vpXPrcV3UQnLa5zqT-bAYWHCVTMkbOZb4gYOKMJePhdRmgJkyNawcvtpSP7fhbIemhA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:36:29,108 - INFO - No more photo buttons after photo 6
+2025-07-12 21:36:29,109 - ERROR - Error scraping profile 3: 'bio'
+2025-07-12 21:36:35,720 - INFO - Tinder scraping automation completed.
+2025-07-12 21:45:06,503 - INFO - Starting MoreLogin environment...
+2025-07-12 21:45:07,531 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 21:45:07,531 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 21:45:08,232 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 21:45:08,234 - INFO - Folder structure created successfully
+2025-07-12 21:45:08,234 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 21:45:08,235 - INFO - Current city: New York, NY
+2025-07-12 21:45:18,418 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 21:45:18,418 - INFO - Changing location to: New York, NY
+2025-07-12 21:45:44,353 - INFO - Successfully changed location to New York, NY
+2025-07-12 21:45:54,478 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 21:45:57,514 - INFO - Found 5 profile photos to iterate.
+2025-07-12 21:45:58,518 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/77jifuBcKdGXozTGrKXu2o/vupiUjeGvhuJ5h2MSwsN8S.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS83N2ppZnVCY0tkR1hvelRHcktYdTJvLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NjAyNjR9fX1dfQ__&Signature=nzePDgGzLlrwRQbIxIei6t62VuyuO65ZPCQa91hKoOFbH9ENQuBzpc8uS8cwaqf5~A6pp5A817OvysvGLGdtKxfDmPZ2x3BjVdspomshonbSHNgQpqc6VVRtxL-B1zPhfxxECdhvgURoZv~JwQ2w-Gvl-9~ENEjuk8lyPMqTZQCAyfd6bFb3U5sKiupN6Lt8s4zvR9jIC~fdpR-~N810qLD2XrzP8Kmhw-9YXmSbNevIW4vSMA-ntBSVM09ubE4xLDdOuHnvHkZOCDt53mvIoGo-q2ry4LtEC-dbJDq-hjEV0uUCsMyN~n4NK2cW0kXy1Mb-ySAdYlQlGyGeOEb4jg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:46:00,581 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/25rB9K6PTJmEc5pnVDUNFW/m7AmAua8CEePfU9TJqeZLg.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8yNXJCOUs2UFRKbUVjNXBuVkRVTkZXLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTUxMjZ9fX1dfQ__&Signature=g98YY9-dzBE9yOfkG9IKHCZK6tRXzKbSs4gOK9hPiu0weXeL56YSsEddb7iLFPKUV8olUkCBsMo-OsByM9KKN2h91H1P8OB3jpxUgH1xOhRtjt2rwgNF49EG2X1ZJ8XsvJvu00lqemUkNMSPE5qysrALYVA7k71xuoRru93XJOCRZFQfkI~8qkUxqD4zQHknDw4YtwhaJWQvFWKrmSYVJPM6xQwzMSt61aWkD56qPHQSyYVxn-bPHpdQps4N0L4PaOSd~wbh5YaP2oNT6egCTpmp-Dz519tVBqacXCPX0vIOG0Uivz~Ya9ltAA2PJCLhq2gBdI30nlEoP7kWXsMNkg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:46:02,596 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/rrdYXoAPQNnpJBqefyMPcN/ws9VKm7Xw6FkHu35YhHpE2.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9ycmRZWG9BUFFObnBKQnFlZnlNUGNOLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTUxMjZ9fX1dfQ__&Signature=jMY8IN6jniXDtDibxp2dpYoAMlKi1qWR93xTHkx40czSCqzW0~pVM2TLuMnnL7~WOthiVB9syW5CV1ubIjsBLf8Ec3ggccXH~EQ5hebZmrsu0n9CcfofVc1-IjCaK~31E24p3bHvP3NCdaBXXxtweg2Ca0DTjafcpiLHW2-dw5ik4sWswF1tjRnsA78-rHNTzmgieKug3ohSxcVnWvf--m8JWKkCmpxggpv-MFYom1YXqJHFbWSCLC7-k49G2ta3huDPKXrDtvQe~YCoKHIyTT2sYxVJ7C1M9KjtDWYuH8O-5zeJYeMwIXd1gjbo9XUR5w0H--YrPNje-Q4JL1NQxA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:46:04,678 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/2vC1mAzWm5gvq3xEiGQSRg/rLLiYu7XegApHR3jxYUio9.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8ydkMxbUF6V201Z3ZxM3hFaUdRU1JnLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MTUxMjZ9fX1dfQ__&Signature=vVeScm5glAtKQ4KRlj51aze92~I1oe0bNfkviSs322CE8iJkzllFr5NE784iuNsgPu8z3y-P5Bo1V6CaxVlkE~-pWGy4p3yFbwX-bg51g0dXeIGhOAi9t2Usvvf-hhnrUD1ej3C2su3OX8eDp9WiDK7fiw6fGbUY2-011uAgdvm7yTeOUsGTRFoE~Jiaq3KfaOOwfs3Z~bCSkFDqzdA8T7J6ZjLozHgyex7B9UmdEBK3D5Hz9z~8Idpctu5pumtCY4UgZ9zspeNy64qOaZATCcB652v~Saesj8mgEk6WliVyO3T0e~MzfQeqNGOK8Nt8Dt56AC8PhonwkmaJfqHhHg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:46:05,722 - INFO - Tinder scraping automation completed.
+2025-07-12 21:48:05,936 - INFO - Starting MoreLogin environment...
+2025-07-12 21:48:06,826 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 21:48:06,827 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 21:48:07,193 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 21:48:07,194 - INFO - Folder structure created successfully
+2025-07-12 21:48:07,194 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 21:48:07,194 - INFO - Current city: New York, NY
+2025-07-12 21:48:17,351 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 21:48:17,351 - INFO - Changing location to: New York, NY
+2025-07-12 21:48:58,142 - ERROR - Failed to change location to New York, NY: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    55 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-07-12 21:49:08,318 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 21:49:11,356 - INFO - Found 7 profile photos to iterate.
+2025-07-12 21:49:12,364 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/5EeEJvfMzvFBrighohqqCS/5VkseYmwGNqqE3UPbZkU1H.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS81RWVFSnZmTXp2RkJyaWdob2hxcUNTLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTE0NDN9fX1dfQ__&Signature=BAmzwXQUc9njCWMIVBxWsiw7v6-2hG8~ie8sQQMEFv0mPIQTpWmqjES9QtCSY221pny8lm0OPMzLjZa0c639uwPFLj08m3GL2uZQ-g0ENYZHY~PzgqSa9Lu~ld7zfVmCj~Pf-FrPw9Usn4vIu3LIVQdS41~EA-AyhXiRNTOumYWAVbiObNQ9MAWOVhiOAAgiE7PYbZud~Nf1mDi5qDbIfCSKDWe8ZdD~IhLsjkWSJAu-lpYPPh5uQ5TjzR~xy--dHWkLTFTXPsBxnFYPiRXRICS20C8a2MivDCWr4HjW9lFvB0mCmF1y3rrOPnBnOQfXZ4I5FjUooiK1rgdzEdYrBg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:49:12,372 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/5EeEJvfMzvFBrighohqqCS/5VkseYmwGNqqE3UPbZkU1H.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS81RWVFSnZmTXp2RkJyaWdob2hxcUNTLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTE0NDN9fX1dfQ__&Signature=BAmzwXQUc9njCWMIVBxWsiw7v6-2hG8~ie8sQQMEFv0mPIQTpWmqjES9QtCSY221pny8lm0OPMzLjZa0c639uwPFLj08m3GL2uZQ-g0ENYZHY~PzgqSa9Lu~ld7zfVmCj~Pf-FrPw9Usn4vIu3LIVQdS41~EA-AyhXiRNTOumYWAVbiObNQ9MAWOVhiOAAgiE7PYbZud~Nf1mDi5qDbIfCSKDWe8ZdD~IhLsjkWSJAu-lpYPPh5uQ5TjzR~xy--dHWkLTFTXPsBxnFYPiRXRICS20C8a2MivDCWr4HjW9lFvB0mCmF1y3rrOPnBnOQfXZ4I5FjUooiK1rgdzEdYrBg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:49:31,737 - ERROR - Failed to download image 1 for profile_0003: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-12 21:49:33,816 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/cMebzDkFKetKz4cHnFqm8X/oqgisnfDGKyLxWUMzR1wnh.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jTWViekRrRktldEt6NGNIbkZxbThYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MzUyNDR9fX1dfQ__&Signature=dnOpE871UWYmyOKIqqPQHkSu8gEVk8p-QvCYAk2pOQ~dT9X6EKblt0~Y1a1zijwJALdOpp75J0858O4qhs2Tty9NvOxv9-sZ1B7GStyXesvcCa0g6WMNDNvTb5qMUy1NElyIZk3X5jVdsmLyUbMdPGPGuEBid~bGrUzr2D-QmIBRDZN7rWzBI8QdoA1Z3pRFMIhMS9W10A3vDjjk7~7Hamc4dBegu3kJqguOfQIAGHqKSoO3SoEPDoYkXEEP2E6kXxJxIddI0HXfNdrvR5XDV6hl3W6IZAMDalGObriVD~FSYy~DwWonEhGqQSW3V~U65tq2fsJETngbrpeMlq~PoQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 21:49:33,817 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/cMebzDkFKetKz4cHnFqm8X/oqgisnfDGKyLxWUMzR1wnh.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jTWViekRrRktldEt6NGNIbkZxbThYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MzUyNDR9fX1dfQ__&Signature=dnOpE871UWYmyOKIqqPQHkSu8gEVk8p-QvCYAk2pOQ~dT9X6EKblt0~Y1a1zijwJALdOpp75J0858O4qhs2Tty9NvOxv9-sZ1B7GStyXesvcCa0g6WMNDNvTb5qMUy1NElyIZk3X5jVdsmLyUbMdPGPGuEBid~bGrUzr2D-QmIBRDZN7rWzBI8QdoA1Z3pRFMIhMS9W10A3vDjjk7~7Hamc4dBegu3kJqguOfQIAGHqKSoO3SoEPDoYkXEEP2E6kXxJxIddI0HXfNdrvR5XDV6hl3W6IZAMDalGObriVD~FSYy~DwWonEhGqQSW3V~U65tq2fsJETngbrpeMlq~PoQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:35:20,534 - INFO - Starting MoreLogin environment...
+2025-07-12 22:35:22,004 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 22:35:22,005 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 22:35:22,232 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 22:35:22,234 - INFO - Folder structure created successfully
+2025-07-12 22:35:22,234 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 22:35:22,235 - INFO - Current city: New York, NY
+2025-07-12 22:35:33,729 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 22:35:33,730 - INFO - Changing location to: New York, NY
+2025-07-12 22:36:14,906 - ERROR - Failed to change location to New York, NY: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-07-12 22:36:25,057 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 22:36:28,082 - INFO - Found 6 profile photos to iterate.
+2025-07-12 22:36:29,097 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/9yJbmWhMvHXsbNiyhtNZ7F/gjSPhAX59GE78hUPeHdBP6.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85eUpibVdoTXZIWHNiTml5aHROWjdGLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=A1a33f9SEYXZAcfHCAwvgWfraslP9ogYnA2kWBC58fsQ5FDCk9E2qpS8tnOGZpkMN4ZOjzmW9T0rT0f9IgCfkygy9faegOhP8P7~Uog58yNENS6HQTnTYiGRqp-WBKMDMKF-eCLjm4gRhqOsJdua~12WGQX4DeXnOVtBu4RB5m2T1Jm-nDC568zP5pzTTXT4JVhBhzJZrWkmboXXHyKHV0KWzMB6EF6SW2QV76RAVCh7XsupnpT536KTq7QO2~lSEJyYuI4OsDDRPSxp2HOZOIlkRzB-527hXhSF-5ZDhMz73M3Zo53KBbpwEjvg07hGGB94FODA34vFwQKEzDMoVg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:36:29,098 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/9yJbmWhMvHXsbNiyhtNZ7F/gjSPhAX59GE78hUPeHdBP6.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85eUpibVdoTXZIWHNiTml5aHROWjdGLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=A1a33f9SEYXZAcfHCAwvgWfraslP9ogYnA2kWBC58fsQ5FDCk9E2qpS8tnOGZpkMN4ZOjzmW9T0rT0f9IgCfkygy9faegOhP8P7~Uog58yNENS6HQTnTYiGRqp-WBKMDMKF-eCLjm4gRhqOsJdua~12WGQX4DeXnOVtBu4RB5m2T1Jm-nDC568zP5pzTTXT4JVhBhzJZrWkmboXXHyKHV0KWzMB6EF6SW2QV76RAVCh7XsupnpT536KTq7QO2~lSEJyYuI4OsDDRPSxp2HOZOIlkRzB-527hXhSF-5ZDhMz73M3Zo53KBbpwEjvg07hGGB94FODA34vFwQKEzDMoVg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:36:48,478 - ERROR - Failed to download image 1 for profile_0003: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-07-12 22:36:50,492 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/tRqL4CZkGgvexuwL6dam3e/3JzdhDXTCjUBwcyzBApd8X.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90UnFMNENaa0dndmV4dXdMNmRhbTNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=UjQhaOJvlcyPrHX3QouzEtJb5PWpdL~7CWBWpzEaweHZLmNZe5ffEDncrcA07ZWOFoGd-3iXATshOPOVsO8nd1b7PHVXbuGAQxEJIJe7VdpnVqFjOZ7ecrzEQH6gKex7SVMmVoaJd8O9wJ3oSs407gt1z~2eSHQd9EqAToX15Hfk94zQGgSqjocwf2U-0NDHPAXhYnBc9xZljmZW0tdjREu-rKSeU~bB2ueiQfTxVCLB0aYdd8DTzh9oEJO4yGFsUiiqMb8aMtPMm9Gw~XEPbOOQdEAmbAwqAvfxv9KBAnpZSNpG720qd4D3ZFlPxjS~Z-TXb7DC33drJI-LiCrHNQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:36:50,492 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/tRqL4CZkGgvexuwL6dam3e/3JzdhDXTCjUBwcyzBApd8X.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90UnFMNENaa0dndmV4dXdMNmRhbTNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=UjQhaOJvlcyPrHX3QouzEtJb5PWpdL~7CWBWpzEaweHZLmNZe5ffEDncrcA07ZWOFoGd-3iXATshOPOVsO8nd1b7PHVXbuGAQxEJIJe7VdpnVqFjOZ7ecrzEQH6gKex7SVMmVoaJd8O9wJ3oSs407gt1z~2eSHQd9EqAToX15Hfk94zQGgSqjocwf2U-0NDHPAXhYnBc9xZljmZW0tdjREu-rKSeU~bB2ueiQfTxVCLB0aYdd8DTzh9oEJO4yGFsUiiqMb8aMtPMm9Gw~XEPbOOQdEAmbAwqAvfxv9KBAnpZSNpG720qd4D3ZFlPxjS~Z-TXb7DC33drJI-LiCrHNQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:43:17,727 - INFO - Starting MoreLogin environment...
+2025-07-12 22:43:19,130 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 22:43:19,130 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 22:43:19,376 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 22:43:19,377 - INFO - Folder structure created successfully
+2025-07-12 22:43:19,377 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 22:43:19,377 - INFO - Current city: New York, NY
+2025-07-12 22:43:29,520 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 22:43:29,521 - INFO - Changing location to: New York, NY
+2025-07-12 22:44:10,195 - ERROR - Failed to change location to New York, NY: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-07-12 22:44:20,334 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 22:44:23,359 - INFO - Found 7 profile photos to iterate.
+2025-07-12 22:44:24,365 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/b29pxoUtVz6rzmPrwjymWp/cH76B9MRbedhba9MvgR71k.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9iMjlweG9VdFZ6NnJ6bVByd2p5bVdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NzM5NjB9fX1dfQ__&Signature=FDiaxb7qRvYLQ6lJ7uH9QYYV9GckxcMhW-wlnBufTObrG1u9HFuXWYQG-4zt2lBj2JlCdM5DDQJ5tJMuCLJHlU0Vx2~Ke9GJxsqyPCqb9FrkMqs6w45e9n~xL8tGKHE7L6iuX6wMaTbx7aOCPtQJnKRUFDRSRhXDUsjYZ3C~yBpHU2R79rUXs43K7Y8x-weypr9td40ifkJ0Tt-TK4dl0kcMOuiW4vSsdFdGtFbclTMEcGP14dbY8r3yE3zBN16oQgX-DpPg7KQINKVZuCM4vuC5RgbMBS8V9LBTtwG-RDZbFI-vf~ZV~BRXaM2arh9qsKyPvf0Ibb~iwQNr2C7Llw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:44:24,365 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/b29pxoUtVz6rzmPrwjymWp/cH76B9MRbedhba9MvgR71k.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9iMjlweG9VdFZ6NnJ6bVByd2p5bVdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NzM5NjB9fX1dfQ__&Signature=FDiaxb7qRvYLQ6lJ7uH9QYYV9GckxcMhW-wlnBufTObrG1u9HFuXWYQG-4zt2lBj2JlCdM5DDQJ5tJMuCLJHlU0Vx2~Ke9GJxsqyPCqb9FrkMqs6w45e9n~xL8tGKHE7L6iuX6wMaTbx7aOCPtQJnKRUFDRSRhXDUsjYZ3C~yBpHU2R79rUXs43K7Y8x-weypr9td40ifkJ0Tt-TK4dl0kcMOuiW4vSsdFdGtFbclTMEcGP14dbY8r3yE3zBN16oQgX-DpPg7KQINKVZuCM4vuC5RgbMBS8V9LBTtwG-RDZbFI-vf~ZV~BRXaM2arh9qsKyPvf0Ibb~iwQNr2C7Llw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:44:26,425 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/cPbUec1ZjQ4xJdy3ycvTgp/jqw7dsvG44YVEPwksr5mjN.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jUGJVZWMxWmpRNHhKZHkzeWN2VGdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=k~8FY1sD0UDPsolOdewvbxeZjf8RdvpfjHvxP~pzWhP9CkR4AdeSO8yV8Q-52MKC9ioT3NA8nWT1ju1ZysevVOphtQobhLuL4c0~g6opRGmnkMDe79UrXKkdbQI6KUm9i7-A46pyiw8ZleKwsh6kabDXTaQgIe1vcXHvPdU~7lF-msDUdn~qCEr6idtx~bxIE0k13D-GZiEFQ4NKpXXWhnKTP-QZnq29ri3F-FDei4M7RaVKF4z9iyk4jcrZX328tFZe5-L4lCVBWTvoGaoFrn6~Hu99n-J3R6gQJ7E9qHIm3HV71LMowN-6faTvfmV~cu0Ss7LJoEnAD9qvud-AYA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:44:26,425 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/cPbUec1ZjQ4xJdy3ycvTgp/jqw7dsvG44YVEPwksr5mjN.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jUGJVZWMxWmpRNHhKZHkzeWN2VGdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=k~8FY1sD0UDPsolOdewvbxeZjf8RdvpfjHvxP~pzWhP9CkR4AdeSO8yV8Q-52MKC9ioT3NA8nWT1ju1ZysevVOphtQobhLuL4c0~g6opRGmnkMDe79UrXKkdbQI6KUm9i7-A46pyiw8ZleKwsh6kabDXTaQgIe1vcXHvPdU~7lF-msDUdn~qCEr6idtx~bxIE0k13D-GZiEFQ4NKpXXWhnKTP-QZnq29ri3F-FDei4M7RaVKF4z9iyk4jcrZX328tFZe5-L4lCVBWTvoGaoFrn6~Hu99n-J3R6gQJ7E9qHIm3HV71LMowN-6faTvfmV~cu0Ss7LJoEnAD9qvud-AYA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:44:28,443 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/aKkF4kd1w1gk7XjYr4kthb/uvoDrN1N6YSfJtJAQihWK3.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9hS2tGNGtkMXcxZ2s3WGpZcjRrdGhiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=ylfekhe36ZHbgtbfGFBCNvDy-a8JjvLMYb5sc~787bIzOGdLNh7PhE82UmDSkkHCqDMqVSXtdgBS2jHspd4SdnznMfWRscsHCFojZD8aQx19F0y~8BaUQzbcyffS-fkcCdVGwAV1e91HkwntpHQNmwj7NUFqiGtjQKUNOkdJmXXH9ydTOGZtX9c0JRB~MNg6dg7rJP-anNiVEXnFcb5dSh~UUt~2mHwYdsz0MMgcY0i5z9cN-pcm0TX-yeSKnSn91BssofRxx~Wyk2KP2pSmPloT~QRi6OJWyMxlcg390odOQrd7Xv2dbV-XSOQkpiQSzWxni5DRZeYMA070nJrHaw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:44:28,443 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/aKkF4kd1w1gk7XjYr4kthb/uvoDrN1N6YSfJtJAQihWK3.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9hS2tGNGtkMXcxZ2s3WGpZcjRrdGhiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=ylfekhe36ZHbgtbfGFBCNvDy-a8JjvLMYb5sc~787bIzOGdLNh7PhE82UmDSkkHCqDMqVSXtdgBS2jHspd4SdnznMfWRscsHCFojZD8aQx19F0y~8BaUQzbcyffS-fkcCdVGwAV1e91HkwntpHQNmwj7NUFqiGtjQKUNOkdJmXXH9ydTOGZtX9c0JRB~MNg6dg7rJP-anNiVEXnFcb5dSh~UUt~2mHwYdsz0MMgcY0i5z9cN-pcm0TX-yeSKnSn91BssofRxx~Wyk2KP2pSmPloT~QRi6OJWyMxlcg390odOQrd7Xv2dbV-XSOQkpiQSzWxni5DRZeYMA070nJrHaw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:44:28,751 - INFO - Tinder scraping automation completed.
+2025-07-12 22:47:00,927 - INFO - Starting MoreLogin environment...
+2025-07-12 22:47:02,539 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 22:47:02,540 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 22:47:02,770 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 22:47:02,771 - INFO - Folder structure created successfully
+2025-07-12 22:47:02,771 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 22:47:02,771 - INFO - Current city: New York, NY
+2025-07-12 22:47:12,897 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 22:47:12,898 - INFO - Changing location to: New York, NY
+2025-07-12 22:47:53,592 - ERROR - Failed to change location to New York, NY: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-07-12 22:48:03,753 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 22:48:06,778 - INFO - Found 7 profile photos to iterate.
+2025-07-12 22:48:07,775 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/m8MZj6tUym84BvGsD7Jjeq/xwfPzPC3cFdofgKywPjpT7.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9tOE1aajZ0VXltODRCdkdzRDdKamVxLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5NDEzMzJ9fX1dfQ__&Signature=aVa1XUbB2wr-s9IJ-ScX5ndor2qYQ~HYmQMoP5yH~oY2kNv6oSA8JkLtFER4x-v2Ks68eFw9tqqOH9eW~N6Ux05cpFXr699b~tJVP1r1maw70FOxFHXyEghaEzU7zXmey3VgTfNhKNxOGixoaZrBMl19KHoVHWvh4FKTcgyTowls5Rmph8moCm0kQnkM7EAUYERzthkRd8kbXdDmBJNnPUACYbmQ8d-Lh5Jk6Rvxq13jxxqbKRPeITyu5-338-id9MCHVjrKh76Q2TuimNp3HuHbyZJspZ~mu0BmowhR5vaCXmeWONl0WWsdwEK5h80w2DpiWEt3V3bWiRPXI6KPpQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:48:07,775 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/m8MZj6tUym84BvGsD7Jjeq/xwfPzPC3cFdofgKywPjpT7.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9tOE1aajZ0VXltODRCdkdzRDdKamVxLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5NDEzMzJ9fX1dfQ__&Signature=aVa1XUbB2wr-s9IJ-ScX5ndor2qYQ~HYmQMoP5yH~oY2kNv6oSA8JkLtFER4x-v2Ks68eFw9tqqOH9eW~N6Ux05cpFXr699b~tJVP1r1maw70FOxFHXyEghaEzU7zXmey3VgTfNhKNxOGixoaZrBMl19KHoVHWvh4FKTcgyTowls5Rmph8moCm0kQnkM7EAUYERzthkRd8kbXdDmBJNnPUACYbmQ8d-Lh5Jk6Rvxq13jxxqbKRPeITyu5-338-id9MCHVjrKh76Q2TuimNp3HuHbyZJspZ~mu0BmowhR5vaCXmeWONl0WWsdwEK5h80w2DpiWEt3V3bWiRPXI6KPpQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:48:09,106 - WARNING - Profile Photo 2 not found, skipping...
+2025-07-12 22:48:10,080 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/5poUwkw1wxfyqxarou4hKV/6A3FRAhVxZVdpd1tHp6L3P.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS81cG9Vd2t3MXd4ZnlxeGFyb3U0aEtWLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MDM2Mjh9fX1dfQ__&Signature=yviHbl~UBqKA1Cwzn~kiQlZfc1W0q4LVSi3TcF0A5cPFeTQjODTGVR~PlyjJpu1etrVaGRvXhtNTYWZXbrsf0f6LRZvTd9PuQA5RtnPNx83pV8CNfBPhOewe~4ZoqCps~luFL9Ltt5pNP90xONfHGDGBeuWa1mgl874zjEi91PPpTMxBuW-wislyBpmOsS0E5Ffa-IJUNHHsYHLCh~lcR30MOFhr~nyj4ui5tUWPLPkntD-TJR6zw10QfWOBm1HOApLPHSf~p32WgqXnO-WLrLp2zzzkQ8NlExYPXCwAs4sQ9eJ3p4gJkNPXKFhVE74r7XBhQ484ABXCroxZULSBEA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:48:10,080 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/5poUwkw1wxfyqxarou4hKV/6A3FRAhVxZVdpd1tHp6L3P.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS81cG9Vd2t3MXd4ZnlxeGFyb3U0aEtWLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MDM2Mjh9fX1dfQ__&Signature=yviHbl~UBqKA1Cwzn~kiQlZfc1W0q4LVSi3TcF0A5cPFeTQjODTGVR~PlyjJpu1etrVaGRvXhtNTYWZXbrsf0f6LRZvTd9PuQA5RtnPNx83pV8CNfBPhOewe~4ZoqCps~luFL9Ltt5pNP90xONfHGDGBeuWa1mgl874zjEi91PPpTMxBuW-wislyBpmOsS0E5Ffa-IJUNHHsYHLCh~lcR30MOFhr~nyj4ui5tUWPLPkntD-TJR6zw10QfWOBm1HOApLPHSf~p32WgqXnO-WLrLp2zzzkQ8NlExYPXCwAs4sQ9eJ3p4gJkNPXKFhVE74r7XBhQ484ABXCroxZULSBEA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:48:12,153 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/9qGnbdoJAsH54PKrnS1U4z/7MpovYi7HHZZRn4yoRuGUi.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85cUduYmRvSkFzSDU0UEtyblMxVTR6LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MDM2Mjh9fX1dfQ__&Signature=bXqxAzkTVbWbREkC9-RCSAlUlP0XpEk7PujsnjkoVnUiqWxCHgisGFJJKNGKS47QS21V100XCc8fBCyL3uBZQxJnouGDmyx56LjuCIMiYQSev7k30m3Qb1-tMObrHN8B2qCgaBZSzAWUlDyk711C8FAC7AKK~F9CHcEG1W8xormCqqTEK2Q-XvQxBNIY3E-h5ZztD1YTRW5vjkdmLe-9I6wfq5UC7kAq7xX5hiOtPXXSNOU0u5iAQMU7bWtRNpSrNQFmvyEPkJIzu1m0o0zS7rh~40d3h0dkttKaDeEffFiiBKAisXIHNB18y7igP926uX29rLB5Zp7rWuq8MN97~A__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:48:12,154 - INFO - Downloading image from URL: https://images-ssl.gotinder.com/u/9qGnbdoJAsH54PKrnS1U4z/7MpovYi7HHZZRn4yoRuGUi.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85cUduYmRvSkFzSDU0UEtyblMxVTR6LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MDM2Mjh9fX1dfQ__&Signature=bXqxAzkTVbWbREkC9-RCSAlUlP0XpEk7PujsnjkoVnUiqWxCHgisGFJJKNGKS47QS21V100XCc8fBCyL3uBZQxJnouGDmyx56LjuCIMiYQSev7k30m3Qb1-tMObrHN8B2qCgaBZSzAWUlDyk711C8FAC7AKK~F9CHcEG1W8xormCqqTEK2Q-XvQxBNIY3E-h5ZztD1YTRW5vjkdmLe-9I6wfq5UC7kAq7xX5hiOtPXXSNOU0u5iAQMU7bWtRNpSrNQFmvyEPkJIzu1m0o0zS7rh~40d3h0dkttKaDeEffFiiBKAisXIHNB18y7igP926uX29rLB5Zp7rWuq8MN97~A__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 22:48:12,327 - INFO - Tinder scraping automation completed.
+2025-07-12 23:00:21,650 - INFO - Starting MoreLogin environment...
+2025-07-12 23:00:22,508 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 23:00:22,508 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 23:00:22,778 - INFO - Resumed from previous session: 2 profiles completed
+2025-07-12 23:00:22,779 - INFO - Folder structure created successfully
+2025-07-12 23:00:22,779 - INFO - TinderScraper initialized - Starting from profile 3
+2025-07-12 23:00:22,779 - INFO - Current city: New York, NY
+2025-07-12 23:00:32,909 - INFO - Starting to scrape 200 profiles (resuming from 2)
+2025-07-12 23:00:32,909 - INFO - Changing location to: New York, NY
+2025-07-12 23:01:13,576 - ERROR - Failed to change location to New York, NY: ElementHandle.click: Timeout 30000ms exceeded.
+Call log:
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is not visible
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is not visible
+     - retrying click action
+       - waiting 500ms
+
+2025-07-12 23:01:23,704 - INFO - Scraping profile 3/200 in New York, NY
+2025-07-12 23:01:26,729 - INFO - Found 7 profile photos to iterate.
+2025-07-12 23:01:27,281 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/b29pxoUtVz6rzmPrwjymWp/cH76B9MRbedhba9MvgR71k.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9iMjlweG9VdFZ6NnJ6bVByd2p5bVdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NzM5NjB9fX1dfQ__&Signature=FDiaxb7qRvYLQ6lJ7uH9QYYV9GckxcMhW-wlnBufTObrG1u9HFuXWYQG-4zt2lBj2JlCdM5DDQJ5tJMuCLJHlU0Vx2~Ke9GJxsqyPCqb9FrkMqs6w45e9n~xL8tGKHE7L6iuX6wMaTbx7aOCPtQJnKRUFDRSRhXDUsjYZ3C~yBpHU2R79rUXs43K7Y8x-weypr9td40ifkJ0Tt-TK4dl0kcMOuiW4vSsdFdGtFbclTMEcGP14dbY8r3yE3zBN16oQgX-DpPg7KQINKVZuCM4vuC5RgbMBS8V9LBTtwG-RDZbFI-vf~ZV~BRXaM2arh9qsKyPvf0Ibb~iwQNr2C7Llw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:27,282 - ERROR - Failed to download image 1 for profile_0003: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:01:27,282 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:01:27,282 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/b29pxoUtVz6rzmPrwjymWp/cH76B9MRbedhba9MvgR71k.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9iMjlweG9VdFZ6NnJ6bVByd2p5bVdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4NzM5NjB9fX1dfQ__&Signature=FDiaxb7qRvYLQ6lJ7uH9QYYV9GckxcMhW-wlnBufTObrG1u9HFuXWYQG-4zt2lBj2JlCdM5DDQJ5tJMuCLJHlU0Vx2~Ke9GJxsqyPCqb9FrkMqs6w45e9n~xL8tGKHE7L6iuX6wMaTbx7aOCPtQJnKRUFDRSRhXDUsjYZ3C~yBpHU2R79rUXs43K7Y8x-weypr9td40ifkJ0Tt-TK4dl0kcMOuiW4vSsdFdGtFbclTMEcGP14dbY8r3yE3zBN16oQgX-DpPg7KQINKVZuCM4vuC5RgbMBS8V9LBTtwG-RDZbFI-vf~ZV~BRXaM2arh9qsKyPvf0Ibb~iwQNr2C7Llw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:27,649 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0003_Lexa_1.webp
+2025-07-12 23:01:29,280 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/cPbUec1ZjQ4xJdy3ycvTgp/jqw7dsvG44YVEPwksr5mjN.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jUGJVZWMxWmpRNHhKZHkzeWN2VGdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=k~8FY1sD0UDPsolOdewvbxeZjf8RdvpfjHvxP~pzWhP9CkR4AdeSO8yV8Q-52MKC9ioT3NA8nWT1ju1ZysevVOphtQobhLuL4c0~g6opRGmnkMDe79UrXKkdbQI6KUm9i7-A46pyiw8ZleKwsh6kabDXTaQgIe1vcXHvPdU~7lF-msDUdn~qCEr6idtx~bxIE0k13D-GZiEFQ4NKpXXWhnKTP-QZnq29ri3F-FDei4M7RaVKF4z9iyk4jcrZX328tFZe5-L4lCVBWTvoGaoFrn6~Hu99n-J3R6gQJ7E9qHIm3HV71LMowN-6faTvfmV~cu0Ss7LJoEnAD9qvud-AYA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:29,281 - ERROR - Failed to download image 2 for profile_0003: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:01:29,281 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:01:29,282 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/cPbUec1ZjQ4xJdy3ycvTgp/jqw7dsvG44YVEPwksr5mjN.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9jUGJVZWMxWmpRNHhKZHkzeWN2VGdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=k~8FY1sD0UDPsolOdewvbxeZjf8RdvpfjHvxP~pzWhP9CkR4AdeSO8yV8Q-52MKC9ioT3NA8nWT1ju1ZysevVOphtQobhLuL4c0~g6opRGmnkMDe79UrXKkdbQI6KUm9i7-A46pyiw8ZleKwsh6kabDXTaQgIe1vcXHvPdU~7lF-msDUdn~qCEr6idtx~bxIE0k13D-GZiEFQ4NKpXXWhnKTP-QZnq29ri3F-FDei4M7RaVKF4z9iyk4jcrZX328tFZe5-L4lCVBWTvoGaoFrn6~Hu99n-J3R6gQJ7E9qHIm3HV71LMowN-6faTvfmV~cu0Ss7LJoEnAD9qvud-AYA__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:29,450 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0003_Lexa_2.webp
+2025-07-12 23:01:31,044 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/aKkF4kd1w1gk7XjYr4kthb/uvoDrN1N6YSfJtJAQihWK3.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9hS2tGNGtkMXcxZ2s3WGpZcjRrdGhiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=ylfekhe36ZHbgtbfGFBCNvDy-a8JjvLMYb5sc~787bIzOGdLNh7PhE82UmDSkkHCqDMqVSXtdgBS2jHspd4SdnznMfWRscsHCFojZD8aQx19F0y~8BaUQzbcyffS-fkcCdVGwAV1e91HkwntpHQNmwj7NUFqiGtjQKUNOkdJmXXH9ydTOGZtX9c0JRB~MNg6dg7rJP-anNiVEXnFcb5dSh~UUt~2mHwYdsz0MMgcY0i5z9cN-pcm0TX-yeSKnSn91BssofRxx~Wyk2KP2pSmPloT~QRi6OJWyMxlcg390odOQrd7Xv2dbV-XSOQkpiQSzWxni5DRZeYMA070nJrHaw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:31,045 - ERROR - Failed to download image 3 for profile_0003: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:01:31,045 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:01:31,045 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/aKkF4kd1w1gk7XjYr4kthb/uvoDrN1N6YSfJtJAQihWK3.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9hS2tGNGtkMXcxZ2s3WGpZcjRrdGhiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=ylfekhe36ZHbgtbfGFBCNvDy-a8JjvLMYb5sc~787bIzOGdLNh7PhE82UmDSkkHCqDMqVSXtdgBS2jHspd4SdnznMfWRscsHCFojZD8aQx19F0y~8BaUQzbcyffS-fkcCdVGwAV1e91HkwntpHQNmwj7NUFqiGtjQKUNOkdJmXXH9ydTOGZtX9c0JRB~MNg6dg7rJP-anNiVEXnFcb5dSh~UUt~2mHwYdsz0MMgcY0i5z9cN-pcm0TX-yeSKnSn91BssofRxx~Wyk2KP2pSmPloT~QRi6OJWyMxlcg390odOQrd7Xv2dbV-XSOQkpiQSzWxni5DRZeYMA070nJrHaw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:31,185 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0003_Lexa_3.webp
+2025-07-12 23:01:32,810 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/3bVeu9MXDJHG9MhZLxYX7b/gzyYx8Zj7cdLFhmeij8koj.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zYlZldTlNWERKSEc5TWhaTHhZWDdiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=etvg1PIWRI2bXG2aSBrQkKmIlWvuxYeEvacsnUIl-zTMQQuy~7THZaOeO8K55-ud~F9EPjGntWcAbqU0uXwO~Ueom88~JvFLISuVbVYkEYCxM6UDIW5wdxVu-ydbsnMtJZkurYtC4j0lQhG8BBtDczlXHe2AzBKspRor58NXMuFHVqysBISF3moXMu~y3akPRyuL2BZ8jugMpn58UPiOEYpxUyzK8EYzkmV43EcNCrgYA~qalTjRkCKpyIbCvdPdQ~k8vMFsJBOjqtEZ3QCHM0gDF14awIphWxKmwjhciglfVcnA1~fGJIcMrsKY-T9CREFcc8TKROQMOqiuSAbOSg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:32,811 - ERROR - Failed to download image 4 for profile_0003: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:01:32,811 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:01:32,811 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/3bVeu9MXDJHG9MhZLxYX7b/gzyYx8Zj7cdLFhmeij8koj.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS8zYlZldTlNWERKSEc5TWhaTHhZWDdiLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Nzk5NDl9fX1dfQ__&Signature=etvg1PIWRI2bXG2aSBrQkKmIlWvuxYeEvacsnUIl-zTMQQuy~7THZaOeO8K55-ud~F9EPjGntWcAbqU0uXwO~Ueom88~JvFLISuVbVYkEYCxM6UDIW5wdxVu-ydbsnMtJZkurYtC4j0lQhG8BBtDczlXHe2AzBKspRor58NXMuFHVqysBISF3moXMu~y3akPRyuL2BZ8jugMpn58UPiOEYpxUyzK8EYzkmV43EcNCrgYA~qalTjRkCKpyIbCvdPdQ~k8vMFsJBOjqtEZ3QCHM0gDF14awIphWxKmwjhciglfVcnA1~fGJIcMrsKY-T9CREFcc8TKROQMOqiuSAbOSg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:01:32,956 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0003_Lexa_4.webp
+2025-07-12 23:01:33,056 - INFO - Tinder scraping automation completed.
+2025-07-12 23:15:59,748 - INFO - Starting MoreLogin environment...
+2025-07-12 23:16:00,752 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 23:16:00,752 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 23:16:01,008 - ERROR - Error in operationEnv: 'TinderScraper' object has no attribute 'load_progress'
+2025-07-12 23:16:01,009 - INFO - Tinder scraping automation completed.
+2025-07-12 23:16:59,042 - INFO - Starting MoreLogin environment...
+2025-07-12 23:17:00,335 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 23:17:00,335 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 23:17:00,546 - ERROR - Critical error in main scraping function: TinderScraper.test_change_location_with_arrow_key() takes 1 positional argument but 2 were given
+2025-07-12 23:17:00,547 - ERROR - Error in operationEnv: 'TinderScraper' object has no attribute 'profile_count'
+2025-07-12 23:17:00,548 - INFO - Tinder scraping automation completed.
+2025-07-12 23:43:26,700 - INFO - Starting MoreLogin environment...
+2025-07-12 23:43:27,830 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 23:43:27,830 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 23:43:28,031 - ERROR - Critical error in main scraping function: TinderScraper.test_change_location_with_arrow_key() takes 1 positional argument but 2 were given
+2025-07-12 23:43:28,031 - ERROR - Error in operationEnv: 'TinderScraper' object has no attribute 'profile_count'
+2025-07-12 23:43:28,032 - INFO - Tinder scraping automation completed.
+2025-07-12 23:43:46,356 - INFO - Starting MoreLogin environment...
+2025-07-12 23:43:47,146 - INFO - Environment started at: http://127.0.0.1:64250
+2025-07-12 23:43:47,146 - INFO - Connecting to browser at: http://127.0.0.1:64250
+2025-07-12 23:43:47,343 - INFO - Starting new scraping session
+2025-07-12 23:43:47,350 - INFO - Folder structure created successfully
+2025-07-12 23:43:47,350 - INFO - TinderScraper initialized - Starting from profile 1
+2025-07-12 23:43:47,350 - INFO - Current city: New York, NY
+2025-07-12 23:43:58,264 - INFO - Starting to scrape 200 profiles (resuming from 0)
+2025-07-12 23:43:58,264 - INFO - Changing location to: New York, NY
+2025-07-12 23:44:24,530 - INFO - Successfully changed location to New York, NY
+2025-07-12 23:44:34,623 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 23:44:37,644 - INFO - Found 6 profile photos to iterate.
+2025-07-12 23:44:38,190 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/9yJbmWhMvHXsbNiyhtNZ7F/gjSPhAX59GE78hUPeHdBP6.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85eUpibVdoTXZIWHNiTml5aHROWjdGLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=A1a33f9SEYXZAcfHCAwvgWfraslP9ogYnA2kWBC58fsQ5FDCk9E2qpS8tnOGZpkMN4ZOjzmW9T0rT0f9IgCfkygy9faegOhP8P7~Uog58yNENS6HQTnTYiGRqp-WBKMDMKF-eCLjm4gRhqOsJdua~12WGQX4DeXnOVtBu4RB5m2T1Jm-nDC568zP5pzTTXT4JVhBhzJZrWkmboXXHyKHV0KWzMB6EF6SW2QV76RAVCh7XsupnpT536KTq7QO2~lSEJyYuI4OsDDRPSxp2HOZOIlkRzB-527hXhSF-5ZDhMz73M3Zo53KBbpwEjvg07hGGB94FODA34vFwQKEzDMoVg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:44:38,191 - ERROR - Failed to download image 1 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:44:38,191 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:44:38,192 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/9yJbmWhMvHXsbNiyhtNZ7F/gjSPhAX59GE78hUPeHdBP6.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85eUpibVdoTXZIWHNiTml5aHROWjdGLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=A1a33f9SEYXZAcfHCAwvgWfraslP9ogYnA2kWBC58fsQ5FDCk9E2qpS8tnOGZpkMN4ZOjzmW9T0rT0f9IgCfkygy9faegOhP8P7~Uog58yNENS6HQTnTYiGRqp-WBKMDMKF-eCLjm4gRhqOsJdua~12WGQX4DeXnOVtBu4RB5m2T1Jm-nDC568zP5pzTTXT4JVhBhzJZrWkmboXXHyKHV0KWzMB6EF6SW2QV76RAVCh7XsupnpT536KTq7QO2~lSEJyYuI4OsDDRPSxp2HOZOIlkRzB-527hXhSF-5ZDhMz73M3Zo53KBbpwEjvg07hGGB94FODA34vFwQKEzDMoVg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:45:08,298 - ERROR - Failed to download image 1 for profile_0001: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://images-ssl.gotinder.com/u/9yJbmWhMvHXsbNiyhtNZ7F/gjSPhAX59GE78hUPeHdBP6.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85eUpibVdoTXZIWHNiTml5aHROWjdGLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=A1a33f9SEYXZAcfHCAwvgWfraslP9ogYnA2kWBC58fsQ5FDCk9E2qpS8tnOGZpkMN4ZOjzmW9T0rT0f9IgCfkygy9faegOhP8P7~Uog58yNENS6HQTnTYiGRqp-WBKMDMKF-eCLjm4gRhqOsJdua~12WGQX4DeXnOVtBu4RB5m2T1Jm-nDC568zP5pzTTXT4JVhBhzJZrWkmboXXHyKHV0KWzMB6EF6SW2QV76RAVCh7XsupnpT536KTq7QO2~lSEJyYuI4OsDDRPSxp2HOZOIlkRzB-527hXhSF-5ZDhMz73M3Zo53KBbpwEjvg07hGGB94FODA34vFwQKEzDMoVg__&Key-Pair-Id=K368TLDEUPA6OI", waiting until "load"
+
+2025-07-12 23:45:08,299 - INFO - Method 2 failed, trying Method 3...
+2025-07-12 23:45:08,300 - INFO - Downloading image via route interception: https://images-ssl.gotinder.com/u/9yJbmWhMvHXsbNiyhtNZ7F/gjSPhAX59GE78hUPeHdBP6.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS85eUpibVdoTXZIWHNiTml5aHROWjdGLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=A1a33f9SEYXZAcfHCAwvgWfraslP9ogYnA2kWBC58fsQ5FDCk9E2qpS8tnOGZpkMN4ZOjzmW9T0rT0f9IgCfkygy9faegOhP8P7~Uog58yNENS6HQTnTYiGRqp-WBKMDMKF-eCLjm4gRhqOsJdua~12WGQX4DeXnOVtBu4RB5m2T1Jm-nDC568zP5pzTTXT4JVhBhzJZrWkmboXXHyKHV0KWzMB6EF6SW2QV76RAVCh7XsupnpT536KTq7QO2~lSEJyYuI4OsDDRPSxp2HOZOIlkRzB-527hXhSF-5ZDhMz73M3Zo53KBbpwEjvg07hGGB94FODA34vFwQKEzDMoVg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:45:18,333 - ERROR - Failed to download image 1 for profile_0001: Page.evaluate: Error: Timeout
+    at eval (eval at evaluate (:313:29), <anonymous>:8:53)
+    at s.__trace__ (https://tinder.com/static/build/57125-8d61baf26b2d08237f81.js:2:35237)
+2025-07-12 23:45:18,334 - ERROR - All download methods failed for image 1 of profile_0001
+2025-07-12 23:45:19,993 - INFO - [2] Extracted image URL: https://images-ssl.gotinder.com/u/tRqL4CZkGgvexuwL6dam3e/3JzdhDXTCjUBwcyzBApd8X.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90UnFMNENaa0dndmV4dXdMNmRhbTNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=UjQhaOJvlcyPrHX3QouzEtJb5PWpdL~7CWBWpzEaweHZLmNZe5ffEDncrcA07ZWOFoGd-3iXATshOPOVsO8nd1b7PHVXbuGAQxEJIJe7VdpnVqFjOZ7ecrzEQH6gKex7SVMmVoaJd8O9wJ3oSs407gt1z~2eSHQd9EqAToX15Hfk94zQGgSqjocwf2U-0NDHPAXhYnBc9xZljmZW0tdjREu-rKSeU~bB2ueiQfTxVCLB0aYdd8DTzh9oEJO4yGFsUiiqMb8aMtPMm9Gw~XEPbOOQdEAmbAwqAvfxv9KBAnpZSNpG720qd4D3ZFlPxjS~Z-TXb7DC33drJI-LiCrHNQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:45:19,994 - ERROR - Failed to download image 2 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:45:19,994 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:45:19,994 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/tRqL4CZkGgvexuwL6dam3e/3JzdhDXTCjUBwcyzBApd8X.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90UnFMNENaa0dndmV4dXdMNmRhbTNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=UjQhaOJvlcyPrHX3QouzEtJb5PWpdL~7CWBWpzEaweHZLmNZe5ffEDncrcA07ZWOFoGd-3iXATshOPOVsO8nd1b7PHVXbuGAQxEJIJe7VdpnVqFjOZ7ecrzEQH6gKex7SVMmVoaJd8O9wJ3oSs407gt1z~2eSHQd9EqAToX15Hfk94zQGgSqjocwf2U-0NDHPAXhYnBc9xZljmZW0tdjREu-rKSeU~bB2ueiQfTxVCLB0aYdd8DTzh9oEJO4yGFsUiiqMb8aMtPMm9Gw~XEPbOOQdEAmbAwqAvfxv9KBAnpZSNpG720qd4D3ZFlPxjS~Z-TXb7DC33drJI-LiCrHNQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:45:50,096 - INFO - Method 2 failed, trying Method 3...
+2025-07-12 23:45:50,096 - INFO - Downloading image via route interception: https://images-ssl.gotinder.com/u/tRqL4CZkGgvexuwL6dam3e/3JzdhDXTCjUBwcyzBApd8X.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS90UnFMNENaa0dndmV4dXdMNmRhbTNlLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=UjQhaOJvlcyPrHX3QouzEtJb5PWpdL~7CWBWpzEaweHZLmNZe5ffEDncrcA07ZWOFoGd-3iXATshOPOVsO8nd1b7PHVXbuGAQxEJIJe7VdpnVqFjOZ7ecrzEQH6gKex7SVMmVoaJd8O9wJ3oSs407gt1z~2eSHQd9EqAToX15Hfk94zQGgSqjocwf2U-0NDHPAXhYnBc9xZljmZW0tdjREu-rKSeU~bB2ueiQfTxVCLB0aYdd8DTzh9oEJO4yGFsUiiqMb8aMtPMm9Gw~XEPbOOQdEAmbAwqAvfxv9KBAnpZSNpG720qd4D3ZFlPxjS~Z-TXb7DC33drJI-LiCrHNQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:00,118 - ERROR - Failed to download image 2 for profile_0001: Page.evaluate: Error: Timeout
+    at eval (eval at evaluate (:313:29), <anonymous>:8:53)
+    at s.__trace__ (https://tinder.com/static/build/57125-8d61baf26b2d08237f81.js:2:35237)
+2025-07-12 23:46:00,118 - ERROR - All download methods failed for image 2 of profile_0001
+2025-07-12 23:46:02,166 - INFO - [3] Extracted image URL: https://images-ssl.gotinder.com/u/uCSPtsSEGmqsw7Z2WSSx6Y/nFw4gGEft28sjRweTWWBzH.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91Q1NQdHNTRUdtcXN3N1oyV1NTeDZZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=foD3fCZ~ACdi4Eifh1e5IX71TzQM8qokiatCAVoIFEBanQraU4axcATU71V1GS8YHcanAgWVjjXEgrlGmz1xBQeCF0Mpf2hpY-3~AxQLT5BSt44KyCxUN5EL~P6vNoZXLbNLmlkcpLLPbmz3r7pmkTqxSIlBxy-eW3aimdblcs3CwJ6kdEAtvAXiGo3MD5O586GnLI~CFTZqaopj3xDtXL82vOLbv0fipi4dpp87IHzKi8yhEj-RqqzW-jtt9RJ8~fJI9WUAWDD4eFLN5HHEtKxkpp55gObIT2NnPnypefE4vTK1DM66JgmJEYQ2txp2MKRWItrddHRvp8IjxlzjZw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:02,166 - ERROR - Failed to download image 3 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:02,166 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:02,167 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/uCSPtsSEGmqsw7Z2WSSx6Y/nFw4gGEft28sjRweTWWBzH.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91Q1NQdHNTRUdtcXN3N1oyV1NTeDZZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=foD3fCZ~ACdi4Eifh1e5IX71TzQM8qokiatCAVoIFEBanQraU4axcATU71V1GS8YHcanAgWVjjXEgrlGmz1xBQeCF0Mpf2hpY-3~AxQLT5BSt44KyCxUN5EL~P6vNoZXLbNLmlkcpLLPbmz3r7pmkTqxSIlBxy-eW3aimdblcs3CwJ6kdEAtvAXiGo3MD5O586GnLI~CFTZqaopj3xDtXL82vOLbv0fipi4dpp87IHzKi8yhEj-RqqzW-jtt9RJ8~fJI9WUAWDD4eFLN5HHEtKxkpp55gObIT2NnPnypefE4vTK1DM66JgmJEYQ2txp2MKRWItrddHRvp8IjxlzjZw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:02,755 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Nicole_3.webp
+2025-07-12 23:46:07,216 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/uq6tz9Fr5QYDXyoMmEgnmw/b4GcihxLdeGcg8kugqkkQe.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91cTZ0ejlGcjVRWURYeW9NbUVnbm13LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=Z0-S9u1CAD2NzMn70XnL0PmFlQmfggBSgUH1pjV1XiroZOWA2DGzGRewEiPcZ44yhH1P5lePFYvOxwJXJp2ELQLhbP2HgvAPZ1dQYPIqpGQ14w0nggOAOUGRdtDi9j9e4g3hV5Zuc0kBTAtdtTNojBtxNkVTPZqZLea-APr-1P6MPVHEZJ965Fn~UJaINgCM80~OvAk5Lf7jzh98hhZVpADLxFOg-CyLlWW0PSCyVEMksNrsfwne4Jm0QWBHe31sCqtYe4CRXwtrfhvYDb4IJP46Df2BRwFQfRBqG933pja3v2kNocrB~HutG5qXbNcKcdoW6tbRY1Vx8tUzr0FSbQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:07,217 - ERROR - Failed to download image 4 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:07,217 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:07,218 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/uq6tz9Fr5QYDXyoMmEgnmw/b4GcihxLdeGcg8kugqkkQe.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91cTZ0ejlGcjVRWURYeW9NbUVnbm13LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=Z0-S9u1CAD2NzMn70XnL0PmFlQmfggBSgUH1pjV1XiroZOWA2DGzGRewEiPcZ44yhH1P5lePFYvOxwJXJp2ELQLhbP2HgvAPZ1dQYPIqpGQ14w0nggOAOUGRdtDi9j9e4g3hV5Zuc0kBTAtdtTNojBtxNkVTPZqZLea-APr-1P6MPVHEZJ965Fn~UJaINgCM80~OvAk5Lf7jzh98hhZVpADLxFOg-CyLlWW0PSCyVEMksNrsfwne4Jm0QWBHe31sCqtYe4CRXwtrfhvYDb4IJP46Df2BRwFQfRBqG933pja3v2kNocrB~HutG5qXbNcKcdoW6tbRY1Vx8tUzr0FSbQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:07,389 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Nicole_4.webp
+2025-07-12 23:46:10,368 - WARNING - Profile Photo 6 not found, skipping...
+2025-07-12 23:46:10,368 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 23:46:19,494 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 23:46:22,511 - INFO - Found 10 profile photos to iterate.
+2025-07-12 23:46:23,557 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/mcfq9H67xYSnuJctBeWacY/xddsHGbEcmT76irAffDtd2.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9tY2ZxOUg2N3hZU251SmN0QmVXYWNZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MzQxNTJ9fX1dfQ__&Signature=xfvdOpZWK30notV87lDJbTkuls-VYxpnHoexTWXn3EXJULk9oEwgBYAFzAYpQaZS~KhuRqagKg8bIZrmF0r7bb2UkT7XTEWApvQUDvrIkDUSfWr4VnGH2fHgje1DJjh9ravRzXLgXsJHYV3c4EKjBGjH1JELDZ3uOcEVClfN87phagKxVtpiSFJt8cVqlxFdJOJfPgioHD1fS8ubnQ1O9IUPqfKjhK5alILzwquaIz4iK~wbkghnUJYDAD7D82Y9K5j0fGZFToi9U00oOob6C8FSQQMVKC-oeQdItYMy4lqFfZB9ty9e5xEsXFBpYCxW5JiKToq46~ULyOd7TT1xYw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:23,557 - ERROR - Failed to download image 1 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:23,558 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:23,558 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/mcfq9H67xYSnuJctBeWacY/xddsHGbEcmT76irAffDtd2.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9tY2ZxOUg2N3hZU251SmN0QmVXYWNZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI5MzQxNTJ9fX1dfQ__&Signature=xfvdOpZWK30notV87lDJbTkuls-VYxpnHoexTWXn3EXJULk9oEwgBYAFzAYpQaZS~KhuRqagKg8bIZrmF0r7bb2UkT7XTEWApvQUDvrIkDUSfWr4VnGH2fHgje1DJjh9ravRzXLgXsJHYV3c4EKjBGjH1JELDZ3uOcEVClfN87phagKxVtpiSFJt8cVqlxFdJOJfPgioHD1fS8ubnQ1O9IUPqfKjhK5alILzwquaIz4iK~wbkghnUJYDAD7D82Y9K5j0fGZFToi9U00oOob6C8FSQQMVKC-oeQdItYMy4lqFfZB9ty9e5xEsXFBpYCxW5JiKToq46~ULyOd7TT1xYw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:23,710 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Lianna_1.webp
+2025-07-12 23:46:26,054 - WARNING - Profile Photo 2 not found, skipping...
+2025-07-12 23:46:26,061 - WARNING - Profile Photo 3 not found, skipping...
+2025-07-12 23:46:27,560 - INFO - [4] Extracted image URL: https://images-ssl.gotinder.com/u/uq6tz9Fr5QYDXyoMmEgnmw/b4GcihxLdeGcg8kugqkkQe.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91cTZ0ejlGcjVRWURYeW9NbUVnbm13LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=Z0-S9u1CAD2NzMn70XnL0PmFlQmfggBSgUH1pjV1XiroZOWA2DGzGRewEiPcZ44yhH1P5lePFYvOxwJXJp2ELQLhbP2HgvAPZ1dQYPIqpGQ14w0nggOAOUGRdtDi9j9e4g3hV5Zuc0kBTAtdtTNojBtxNkVTPZqZLea-APr-1P6MPVHEZJ965Fn~UJaINgCM80~OvAk5Lf7jzh98hhZVpADLxFOg-CyLlWW0PSCyVEMksNrsfwne4Jm0QWBHe31sCqtYe4CRXwtrfhvYDb4IJP46Df2BRwFQfRBqG933pja3v2kNocrB~HutG5qXbNcKcdoW6tbRY1Vx8tUzr0FSbQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:27,561 - ERROR - Failed to download image 4 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:27,561 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:27,561 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/uq6tz9Fr5QYDXyoMmEgnmw/b4GcihxLdeGcg8kugqkkQe.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS91cTZ0ejlGcjVRWURYeW9NbUVnbm13LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTMyMDl9fX1dfQ__&Signature=Z0-S9u1CAD2NzMn70XnL0PmFlQmfggBSgUH1pjV1XiroZOWA2DGzGRewEiPcZ44yhH1P5lePFYvOxwJXJp2ELQLhbP2HgvAPZ1dQYPIqpGQ14w0nggOAOUGRdtDi9j9e4g3hV5Zuc0kBTAtdtTNojBtxNkVTPZqZLea-APr-1P6MPVHEZJ965Fn~UJaINgCM80~OvAk5Lf7jzh98hhZVpADLxFOg-CyLlWW0PSCyVEMksNrsfwne4Jm0QWBHe31sCqtYe4CRXwtrfhvYDb4IJP46Df2BRwFQfRBqG933pja3v2kNocrB~HutG5qXbNcKcdoW6tbRY1Vx8tUzr0FSbQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:27,688 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Lianna_4.webp
+2025-07-12 23:46:29,451 - INFO - [5] Extracted image URL: https://images-ssl.gotinder.com/u/n5bHkPnVTjr3b99j9iMBfj/xqFmEvXsa9BopwWKPrHP3y.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9uNWJIa1BuVlRqcjNiOTlqOWlNQmZqLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=xmCSV9M8D2rHfsYsFvlRQzOFCGr5e7xU2PHWtkIllwow-KTf5JFrg-0jF7zx5at95EZ1gEKQO0TURFBLKve91t4gk-OT~4Mjn6MXA6VyUQVG2-3B2HgWvAT2CCVFP-I--IMkaHOI6nN7aIUxaSHCm5JahcVkpXpT97OUJMucS7nJX9yodsDol6rDpuvo~QiRM0GDscdI0QEqjKntrAsmNtH8klIBjUcu9xsZUAag~tK2BTp8kIq3nQUldQbH27eVXXjPkCA4d8EN32FNRSMSAEACOrUDHQUZzOOGaODyJPqw0TT7hoXZzu2VNK6mdIpaBvAbE4VCnzBNJw1n2DZk8Q__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:29,452 - ERROR - Failed to download image 5 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:29,452 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:29,452 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/n5bHkPnVTjr3b99j9iMBfj/xqFmEvXsa9BopwWKPrHP3y.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9uNWJIa1BuVlRqcjNiOTlqOWlNQmZqLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=xmCSV9M8D2rHfsYsFvlRQzOFCGr5e7xU2PHWtkIllwow-KTf5JFrg-0jF7zx5at95EZ1gEKQO0TURFBLKve91t4gk-OT~4Mjn6MXA6VyUQVG2-3B2HgWvAT2CCVFP-I--IMkaHOI6nN7aIUxaSHCm5JahcVkpXpT97OUJMucS7nJX9yodsDol6rDpuvo~QiRM0GDscdI0QEqjKntrAsmNtH8klIBjUcu9xsZUAag~tK2BTp8kIq3nQUldQbH27eVXXjPkCA4d8EN32FNRSMSAEACOrUDHQUZzOOGaODyJPqw0TT7hoXZzu2VNK6mdIpaBvAbE4VCnzBNJw1n2DZk8Q__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:29,589 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Lianna_5.webp
+2025-07-12 23:46:34,124 - INFO - [6] Extracted image URL: https://images-ssl.gotinder.com/u/qFQrQq6Ze8e4KzurGbrGCi/5HXwbrkwuobkWYmoGa5nNV.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9xRlFyUXE2WmU4ZTRLenVyR2JyR0NpLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=GJNKYHaYfQnqe-X0bJd2j5R-FTioLDfdcdHikOZjM2MjKoTjSCKpndVzXM0R106zlvdGHH7VhdLmbvLLkHTtJFA2rQTKnmRWFvkyWqfPUiiFVQjTCTiG4wRJYRQexrHQzx91BNIi9WL9Ufr6UU0jYC2mzQ13N6FGxzc70hxSECM9yXoxUXkCdiMURrrnqJSgc5Qte3FGEHYIsE7uvDwQzGTLPD7PMNd14RDSimwt~Ei-nwqHa0~luKQSsMbjrr6FR1tOW9QGm974G82po3xC~tD9GfjZaoTtzHPo43vFeqvREW4KpOVhHiNVh00G1y~2TM00RKPJYqo5HQnhwSAMrw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:34,125 - ERROR - Failed to download image 6 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:34,125 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:34,125 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/qFQrQq6Ze8e4KzurGbrGCi/5HXwbrkwuobkWYmoGa5nNV.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9xRlFyUXE2WmU4ZTRLenVyR2JyR0NpLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=GJNKYHaYfQnqe-X0bJd2j5R-FTioLDfdcdHikOZjM2MjKoTjSCKpndVzXM0R106zlvdGHH7VhdLmbvLLkHTtJFA2rQTKnmRWFvkyWqfPUiiFVQjTCTiG4wRJYRQexrHQzx91BNIi9WL9Ufr6UU0jYC2mzQ13N6FGxzc70hxSECM9yXoxUXkCdiMURrrnqJSgc5Qte3FGEHYIsE7uvDwQzGTLPD7PMNd14RDSimwt~Ei-nwqHa0~luKQSsMbjrr6FR1tOW9QGm974G82po3xC~tD9GfjZaoTtzHPo43vFeqvREW4KpOVhHiNVh00G1y~2TM00RKPJYqo5HQnhwSAMrw__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:34,299 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Lianna_6.webp
+2025-07-12 23:46:38,775 - INFO - [7] Extracted image URL: https://images-ssl.gotinder.com/u/h2AaCtRGcKTxD9od8igz2f/kwrnbebCwmmngU6s4hPebT.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9oMkFhQ3RSR2NLVHhEOW9kOGlnejJmLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=kTUqKc18kOGTIN0UGkEl4vIjFQ4L5a99uAHPUMWN7P9vlP8~4P~vNjLjNNuA7V~EYzB2UkflLi0L3f2wRauW12so~FPECPywtBcArCl3pJiB4yPwQtZFpufkEbSLH83465SHlJgMlays~kXiRunNKFTfMJcAFJuxDFhyPV2XaAjRnTOmNq~4f2gWgi3MKFY8MyTgbpPlAdxpI7uY-5fw4d1RBbZO76NA5yeYf2CTEUJo3nq1uqj4IVMr~1d0c627VF9JtCOsiHPfFkrM7bzmYATrBWdf~lAnnwy~R2O1uhIqOB4txokSpNtGV2A2x~rtW1I2ydhwCAnFV~iPdOp-lQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:38,775 - ERROR - Failed to download image 7 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:38,775 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:38,776 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/h2AaCtRGcKTxD9od8igz2f/kwrnbebCwmmngU6s4hPebT.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9oMkFhQ3RSR2NLVHhEOW9kOGlnejJmLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=kTUqKc18kOGTIN0UGkEl4vIjFQ4L5a99uAHPUMWN7P9vlP8~4P~vNjLjNNuA7V~EYzB2UkflLi0L3f2wRauW12so~FPECPywtBcArCl3pJiB4yPwQtZFpufkEbSLH83465SHlJgMlays~kXiRunNKFTfMJcAFJuxDFhyPV2XaAjRnTOmNq~4f2gWgi3MKFY8MyTgbpPlAdxpI7uY-5fw4d1RBbZO76NA5yeYf2CTEUJo3nq1uqj4IVMr~1d0c627VF9JtCOsiHPfFkrM7bzmYATrBWdf~lAnnwy~R2O1uhIqOB4txokSpNtGV2A2x~rtW1I2ydhwCAnFV~iPdOp-lQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:38,931 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Lianna_7.webp
+2025-07-12 23:46:43,404 - INFO - [8] Extracted image URL: https://images-ssl.gotinder.com/u/48TStFf1svQsKeCtLjWd7p/ay7y1LY7rMcDaTviGNnmQ7.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS80OFRTdEZmMXN2UXNLZUN0TGpXZDdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=Ko0c7P5P6AwkGEMtQnKoC~1azY0plfXKBCDlomvYBlN-DtTgbyHI4V7IWf1AKyOejc9DklHzHqQE97fd-7eAzjNJbvkTNT~-Cqc4mkJqWYWbCDK9YyHAu1tYbm2i5RAnO77sfZnY-A6JSb1MHLOCqRu41yVluvZouJUL88nsYg6G0aYJCrLQRu1uezEU3iEQZGMWjUKu71y4rYc-D8CLJSbpWvdkzKxLN0lf-TiLMSXx5kZ8nWG-O0P6ZNDAmeqZIwIvx88uCfNAXFl~YsYh5GartZznNaA8GbZ8A6Gl-pXbmWoH4Ctoi3GBGzsBoAzxSUzY9Yro-3pwSei5ef93WQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:43,405 - ERROR - Failed to download image 8 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:43,405 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:43,405 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/48TStFf1svQsKeCtLjWd7p/ay7y1LY7rMcDaTviGNnmQ7.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS80OFRTdEZmMXN2UXNLZUN0TGpXZDdwLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=Ko0c7P5P6AwkGEMtQnKoC~1azY0plfXKBCDlomvYBlN-DtTgbyHI4V7IWf1AKyOejc9DklHzHqQE97fd-7eAzjNJbvkTNT~-Cqc4mkJqWYWbCDK9YyHAu1tYbm2i5RAnO77sfZnY-A6JSb1MHLOCqRu41yVluvZouJUL88nsYg6G0aYJCrLQRu1uezEU3iEQZGMWjUKu71y4rYc-D8CLJSbpWvdkzKxLN0lf-TiLMSXx5kZ8nWG-O0P6ZNDAmeqZIwIvx88uCfNAXFl~YsYh5GartZznNaA8GbZ8A6Gl-pXbmWoH4Ctoi3GBGzsBoAzxSUzY9Yro-3pwSei5ef93WQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:43,587 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Lianna_8.webp
+2025-07-12 23:46:43,627 - INFO - No more photo buttons after photo 8
+2025-07-12 23:46:43,631 - WARNING - Profile Photo 9 not found, skipping...
+2025-07-12 23:46:43,638 - WARNING - Profile Photo 10 not found, skipping...
+2025-07-12 23:46:43,638 - ERROR - Error scraping profile 1: 'bio'
+2025-07-12 23:46:52,581 - INFO - Scraping profile 1/200 in New York, NY
+2025-07-12 23:46:55,604 - INFO - Found 10 profile photos to iterate.
+2025-07-12 23:46:57,001 - INFO - [1] Extracted image URL: https://images-ssl.gotinder.com/u/qski721Ye3eKk5c1mqpWRP/uyJd2PPFHSeYisiTVo3BMq.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9xc2tpNzIxWWUzZUtrNWMxbXFwV1JQLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTA1Njh9fX1dfQ__&Signature=u66sfndWTZP2HQTrB0W6NxPxI9-49Cb80E9J4-owlJRziixtw4uDedSZUNuM9MYfkYyOz4op0jzaQv5Go~N8OmpmXLqSahTz3BE25OXZQmzFBjSUK2QCy4lX10d7YQkm7MBBwZOipv55ZS1Ok6c-xBbL-tKYmAi7NJm0sYkqD1GXaPyyp8rfkNrh-5wn4wG2MQzyHAKpg6jUNprCJcizYLBvqpz0RScl6NQrtCyCF2ziVSqV-bj0FoEdalcQ0Ru5rpDlrPBTF84zMq-OZiYsDc0xQzfgYjW9PMthyioIgP7EE~LW85-GQkU-8c3O3QCrbD2klda-NWGHbxvJygYcLg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:57,001 - ERROR - Failed to download image 1 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:46:57,001 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:46:57,002 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/qski721Ye3eKk5c1mqpWRP/uyJd2PPFHSeYisiTVo3BMq.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9xc2tpNzIxWWUzZUtrNWMxbXFwV1JQLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4OTA1Njh9fX1dfQ__&Signature=u66sfndWTZP2HQTrB0W6NxPxI9-49Cb80E9J4-owlJRziixtw4uDedSZUNuM9MYfkYyOz4op0jzaQv5Go~N8OmpmXLqSahTz3BE25OXZQmzFBjSUK2QCy4lX10d7YQkm7MBBwZOipv55ZS1Ok6c-xBbL-tKYmAi7NJm0sYkqD1GXaPyyp8rfkNrh-5wn4wG2MQzyHAKpg6jUNprCJcizYLBvqpz0RScl6NQrtCyCF2ziVSqV-bj0FoEdalcQ0Ru5rpDlrPBTF84zMq-OZiYsDc0xQzfgYjW9PMthyioIgP7EE~LW85-GQkU-8c3O3QCrbD2klda-NWGHbxvJygYcLg__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:46:57,152 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Steph_1.webp
+2025-07-12 23:47:00,152 - WARNING - Profile Photo 2 not found, skipping...
+2025-07-12 23:47:00,157 - WARNING - Profile Photo 3 not found, skipping...
+2025-07-12 23:47:00,161 - WARNING - Profile Photo 4 not found, skipping...
+2025-07-12 23:47:00,166 - WARNING - Profile Photo 5 not found, skipping...
+2025-07-12 23:47:00,170 - WARNING - Profile Photo 6 not found, skipping...
+2025-07-12 23:47:01,647 - INFO - [7] Extracted image URL: https://images-ssl.gotinder.com/u/h2AaCtRGcKTxD9od8igz2f/kwrnbebCwmmngU6s4hPebT.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9oMkFhQ3RSR2NLVHhEOW9kOGlnejJmLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=kTUqKc18kOGTIN0UGkEl4vIjFQ4L5a99uAHPUMWN7P9vlP8~4P~vNjLjNNuA7V~EYzB2UkflLi0L3f2wRauW12so~FPECPywtBcArCl3pJiB4yPwQtZFpufkEbSLH83465SHlJgMlays~kXiRunNKFTfMJcAFJuxDFhyPV2XaAjRnTOmNq~4f2gWgi3MKFY8MyTgbpPlAdxpI7uY-5fw4d1RBbZO76NA5yeYf2CTEUJo3nq1uqj4IVMr~1d0c627VF9JtCOsiHPfFkrM7bzmYATrBWdf~lAnnwy~R2O1uhIqOB4txokSpNtGV2A2x~rtW1I2ydhwCAnFV~iPdOp-lQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:47:01,647 - ERROR - Failed to download image 7 for profile_0001: 'TinderScraper' object has no attribute 'init_session'
+2025-07-12 23:47:01,647 - INFO - Method 1 failed, trying Method 2...
+2025-07-12 23:47:01,647 - INFO - Downloading image via Playwright navigation: https://images-ssl.gotinder.com/u/h2AaCtRGcKTxD9od8igz2f/kwrnbebCwmmngU6s4hPebT.webp?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6IiovdS9oMkFhQ3RSR2NLVHhEOW9kOGlnejJmLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3NTI4Njc0NzJ9fX1dfQ__&Signature=kTUqKc18kOGTIN0UGkEl4vIjFQ4L5a99uAHPUMWN7P9vlP8~4P~vNjLjNNuA7V~EYzB2UkflLi0L3f2wRauW12so~FPECPywtBcArCl3pJiB4yPwQtZFpufkEbSLH83465SHlJgMlays~kXiRunNKFTfMJcAFJuxDFhyPV2XaAjRnTOmNq~4f2gWgi3MKFY8MyTgbpPlAdxpI7uY-5fw4d1RBbZO76NA5yeYf2CTEUJo3nq1uqj4IVMr~1d0c627VF9JtCOsiHPfFkrM7bzmYATrBWdf~lAnnwy~R2O1uhIqOB4txokSpNtGV2A2x~rtW1I2ydhwCAnFV~iPdOp-lQ__&Key-Pair-Id=K368TLDEUPA6OI
+2025-07-12 23:47:01,819 - INFO - Image saved to tinder_profiles\New_York_NY\profile_0001_Steph_7.webp
+2025-07-12 23:47:11,645 - INFO - Tinder scraping automation completed.
